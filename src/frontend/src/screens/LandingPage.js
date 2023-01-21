@@ -10,28 +10,21 @@ import { NavLink } from "react-router-dom";
 
 const LandingPage = () => {  
 
-    // Not very nice
-
-    // var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    // var scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
-          
-    // // if any scroll is attempted,
-    // // set this to the previous value
-    // window.onscroll = function() {
-    //     window.scrollTo(scrollLeft, scrollTop);
-    // };
-
     return (
         <LandingContainer>
             <Words>
                 <UnleashText>We've got you covered</UnleashText>
                 <DiscoverText>
-                    <img src={Discover} alt="Discover" />
+                    <NavLink className="nav-link" to="/resume-and-url">
+                        <img src={Discover} alt="Discover" />
+                    </NavLink>
                 </DiscoverText>
-                <NavLink className="nav-link" to="/resume-and-url">
-                    <YourFutureText>Your Future</YourFutureText>
+                    <YourFutureText>                
+                        <NavLink className="nav-link" to="/resume-and-url">
+                            Your Future
+                        </NavLink>
+                    </YourFutureText>
                     <ArrowSymbol />
-                </NavLink>
             </Words>
             <BackgroundCircles>
                 <RightContainer>
