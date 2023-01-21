@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
+import '../styles/App.css';
 
 const ResumeAndURLPage = () => {
     const [jobURL, setJobURL] = useState();
@@ -21,9 +22,9 @@ const ResumeAndURLPage = () => {
     return (
         <Container>
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
-            <h2>Congratulations on taking your first step to success!</h2>
-            <h3>Please upload the Job Posting URL you are looking at and your updated resume.</h3>
-            <Form onSubmit={onFormSubmit}>
+            <h2 className='title'>Congratulations on taking your first step to success!</h2>
+            <h3 className='subtitle'>Please upload the Job Posting URL you are looking at and your updated resume.</h3>
+            <Form className='form-body' onSubmit={onFormSubmit}>
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
@@ -59,6 +60,7 @@ const Container = styled.div`
     align-text: center;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
     height: 100%;
     width: 100%;
 `;

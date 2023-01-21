@@ -4,7 +4,8 @@ import styled from "styled-components";
 import Button from 'react-bootstrap/Button';
 
 import Arrow from "../images/Arrow 1.png";
-import Discover from "../images/only-words.png";
+//import Discover from "../images/only-words.png";
+import Discover from "../images/disCOVER.png";
 import background from '../images/background2.gif';
 import { NavLink } from "react-router-dom"; 
 
@@ -25,9 +26,9 @@ const LandingPage = () => {
         <LandingContainer>
             <NavLink className="nav-link" to="/resume-and-url">
                 <Words>
-                    <UnleashText>We've got you covered</UnleashText>
+                    <UnleashText>We've got you covered.</UnleashText>
                     <DiscoverText>
-                        <img src={Discover} alt="Discover" />
+                        <img src={Discover} alt="Discover" style={{height: "200px"}}/>
                     </DiscoverText>
                         <YourFutureText>Your Future</YourFutureText>
                     <ArrowSymbol />
@@ -293,7 +294,7 @@ width: 1920px;
 height: 1080px;
 overflow: hidden;
 
-background: #000000;
+
 `;
 
 // const Button = styled.button`
