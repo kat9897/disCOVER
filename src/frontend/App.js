@@ -17,8 +17,8 @@ const App = () => {
      <Text style={styles.text}>Hello Griffin!</Text>
      <NativeRouter>
       <Routes>
-       {/* <Route exact path="/" component={<PostingList />} /> */}
-        <Route path="/edit/:id" component={<Edit />} />
+       <Route exact path="/" element={<PostingList />} />
+        <Route path="/edit/:id" element={<Edit />} />
        {/* <Route path="/create" component={<Create />} /> */}
       </Routes>
      </NativeRouter>
