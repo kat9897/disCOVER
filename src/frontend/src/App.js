@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
  
 import { Route, Routes } from "react-router-dom";
  
@@ -8,19 +8,20 @@ import Edit from "./components/edit";
 import Create from "./components/create";
 import LandingPage from "./screens/LandingPage";
 import ResumeAndURLPage from "./screens/ResumeAndURLPage";
- 
-const App = () => {
- return (
-   <div className="App">
-     {/* <Navbar /> */}
-     <Routes>
-       <Route exact path="/" element={<LandingPage />} />
-       <Route path="/edit/:id" element={<Edit />} />
-       <Route path="/create" element={<Create />} />
-       <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
-     </Routes>
-   </div>
- );
-};
- 
-export default App;
+import './styles/App.css';
+
+export default class App extends Component{
+  render() {
+    return (
+      <div className="App">
+        {/* <Navbar /> */}
+        <Routes>
+          <Route exact path="/" element={<LandingPage />} />
+          <Route path="/edit/:id" element={<Edit />} />
+          <Route path="/create" element={<Create />} />
+          <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
+        </Routes>
+      </div>
+    );
+  }
+}

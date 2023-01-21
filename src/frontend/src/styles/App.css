@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.title {
+    color: rgb(108, 223, 185);
+}
+
+.subtitle {
+    color: rgb(107, 238, 236);
+}
+
+.form-body {
+    margin-top: 10px;
+}
+
+.form-label {
+    color: rgb(88, 155, 147);
+}
+
+.App {
+    background: linear-gradient(180deg, #582680, #010c42, #0e8989);
+    background-size: inherit;
+};

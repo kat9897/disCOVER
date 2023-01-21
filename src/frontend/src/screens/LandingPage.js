@@ -4,7 +4,8 @@ import styled from "styled-components";
 import Button from 'react-bootstrap/Button';
 
 import Arrow from "../images/Arrow 1.png";
-import Discover from "../images/only-words.png";
+//import Discover from "../images/only-words.png";
+import Discover from "../images/disCOVER.png";
 import background from '../images/background2.gif';
 import { NavLink } from "react-router-dom"; 
 
@@ -12,37 +13,33 @@ const LandingPage = () => {
 
     return (
         <LandingContainer>
-            <Words>
-                <UnleashText>We've got you covered</UnleashText>
-                <DiscoverText>
-                    <NavLink className="nav-link" to="/resume-and-url">
-                        <img src={Discover} alt="Discover" />
-                    </NavLink>
-                </DiscoverText>
-                    <YourFutureText>                
-                        <NavLink className="nav-link" to="/resume-and-url">
-                            Your Future
-                        </NavLink>
-                    </YourFutureText>
+            <NavLink className="nav-link" to="/resume-and-url">
+                <Words>
+                    <UnleashText>We've got you covered.</UnleashText>
+                    <DiscoverText>
+                        <img src={Discover} alt="Discover" style={{height: "200px"}}/>
+                    </DiscoverText>
+                        <YourFutureText>Your Future</YourFutureText>
                     <ArrowSymbol />
-            </Words>
-            <BackgroundCircles>
-                <RightContainer>
-                    <RightCircle5 />
-                    <RightCircle4 />
-                    <RightCircle3 />
-                    <RightCircle2 />
-                    <RightCircle1 />
-                </RightContainer>
-                <TopCircle>
-                    <TopCircle1 />
-                    <TopCircle2 />
-                </TopCircle>
-                <LeftCircle>
-                    <LeftEllipse1 />
-                    <LeftEllipse2 />
-                </LeftCircle>
-            </BackgroundCircles>
+                </Words>
+                <BackgroundCircles>
+                    <RightContainer>
+                        <RightCircle5 />
+                        <RightCircle4 />
+                        <RightCircle3 />
+                        <RightCircle2 />
+                        <RightCircle1 />
+                    </RightContainer>
+                    <TopCircle>
+                        <TopCircle1 />
+                        <TopCircle2 />
+                    </TopCircle>
+                    <LeftCircle>
+                        <LeftEllipse1 />
+                        <LeftEllipse2 />
+                    </LeftCircle>
+                </BackgroundCircles>
+             </NavLink>
         </LandingContainer>
     )
 }
@@ -286,7 +283,7 @@ width: 1920px;
 height: 1080px;
 overflow: hidden;
 
-background: #000000;
+
 `;
 
 // const Button = styled.button`
