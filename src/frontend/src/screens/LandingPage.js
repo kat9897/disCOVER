@@ -23,33 +23,33 @@ const LandingPage = () => {
 
     return (
         <LandingContainer>
-            <Words>
-                <UnleashText>We've got you covered</UnleashText>
-                <DiscoverText>
-                    <img src={Discover} alt="Discover" />
-                </DiscoverText>
-                <NavLink className="nav-link" to="/resume-and-url">
-                    <YourFutureText>Your Future</YourFutureText>
+            <NavLink className="nav-link" to="/resume-and-url">
+                <Words>
+                    <UnleashText>We've got you covered</UnleashText>
+                    <DiscoverText>
+                        <img src={Discover} alt="Discover" />
+                    </DiscoverText>
+                        <YourFutureText>Your Future</YourFutureText>
                     <ArrowSymbol />
+                </Words>
+                <BackgroundCircles>
+                    <RightContainer>
+                        <RightCircle5 />
+                        <RightCircle4 />
+                        <RightCircle3 />
+                        <RightCircle2 />
+                        <RightCircle1 />
+                    </RightContainer>
+                    <TopCircle>
+                        <TopCircle1 />
+                        <TopCircle2 />
+                    </TopCircle>
+                    <LeftCircle>
+                        <LeftEllipse1 />
+                        <LeftEllipse2 />
+                    </LeftCircle>
+                </BackgroundCircles>
                 </NavLink>
-            </Words>
-            <BackgroundCircles>
-                <RightContainer>
-                    <RightCircle5 />
-                    <RightCircle4 />
-                    <RightCircle3 />
-                    <RightCircle2 />
-                    <RightCircle1 />
-                </RightContainer>
-                <TopCircle>
-                    <TopCircle1 />
-                    <TopCircle2 />
-                </TopCircle>
-                <LeftCircle>
-                    <LeftEllipse1 />
-                    <LeftEllipse2 />
-                </LeftCircle>
-            </BackgroundCircles>
         </LandingContainer>
     )
 }

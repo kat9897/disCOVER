@@ -8,7 +8,7 @@ export default function Navbar() {
  return (
    <div>
      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-       <NavLink className="navbar-brand" to="/">
+       <NavLink className="navbar-brand" to="/resume-and-url">
           <img style={{"width" : 25 + '%'}} alt="team" src={require("../images/yeah.jpg")}></img>
        </NavLink>
        <button

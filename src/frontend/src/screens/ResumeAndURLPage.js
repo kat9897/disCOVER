@@ -20,9 +20,9 @@ const ResumeAndURLPage = () => {
 
     return (
         <Container>
-
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
-            <h2>Congratulations on taking your first step to success! Please upload the Job Posting URL you are looking at and your updated resume.</h2>
+            <h2>Congratulations on taking your first step to success!</h2>
+            <h3>Please upload the Job Posting URL you are looking at and your updated resume.</h3>
             <Form onSubmit={onFormSubmit}>
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
@@ -37,18 +37,22 @@ const ResumeAndURLPage = () => {
                 </Form.Group>
                 <Form.Group controlId="formFile" className="mb-3">
                     <Form.Label>Upload Resume</Form.Label>
-                    <Form.Control type="file" accept='.pdf/.doc/.docx'/>
+                    <Form.Control type="file" accept='.pdf, .doc, .docx'/>
                     <Form.Text className="text-muted">
                     Please only upload either .pdf or .doc files.
                     </Form.Text>
                 </Form.Group>
-                <Button variant="primary" type="submit">
+                <Button variant="primary" type="submit" onSubmit={afterSubmit}>
                     Submit
                 </Button>
             </Form>
         </Container>
     )
 }
+
+const afterSubmit = (e) => {
+    
+};
 
 const Container = styled.div`
     display: flex;
