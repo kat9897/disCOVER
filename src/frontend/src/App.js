@@ -6,15 +6,18 @@ import Navbar from "./components/navbar";
 import PostingList from "./components/postingList";
 import Edit from "./components/edit";
 import Create from "./components/create";
+import LandingPage from "./screens/LandingPage";
+import ResumeAndURLPage from "./screens/ResumeAndURLPage";
  
 const App = () => {
  return (
-   <div>
-     <Navbar />
+   <div className="App">
+     {/* <Navbar /> */}
      <Routes>
-       <Route exact path="/" element={<PostingList />} />
+       <Route exact path="/" element={<LandingPage />} />
        <Route path="/edit/:id" element={<Edit />} />
        <Route path="/create" element={<Create />} />
+       <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
      </Routes>
    </div>
  );
