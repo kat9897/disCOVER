@@ -17,6 +17,7 @@ const App = () => {
        <Route exact path="/" element={<LandingPage />} />
        <Route path="/edit/:id" element={<Edit />} />
        <Route path="/create" element={<Create />} />
+       <Route path="/cohere" element={<Create />} />
        <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
      </Routes>
    </div>
