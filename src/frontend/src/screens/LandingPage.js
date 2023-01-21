@@ -11,17 +11,6 @@ import { NavLink } from "react-router-dom";
 
 const LandingPage = () => {  
 
-    // Not very nice
-
-    // var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    // var scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
-          
-    // // if any scroll is attempted,
-    // // set this to the previous value
-    // window.onscroll = function() {
-    //     window.scrollTo(scrollLeft, scrollTop);
-    // };
-
     return (
         <LandingContainer>
             <NavLink className="nav-link" to="/resume-and-url">
@@ -50,7 +39,7 @@ const LandingPage = () => {
                         <LeftEllipse2 />
                     </LeftCircle>
                 </BackgroundCircles>
-                </NavLink>
+             </NavLink>
         </LandingContainer>
     )
 }
