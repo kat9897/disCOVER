@@ -136,7 +136,6 @@ const ResultsPage = () => {
                     <br></br><br></br><br></br><br></br><br></br>
                     <Keys className="bolded"> Key Phrases: {keywords}</Keys>
                 </Bontainer>
-                <CoverLetter letter={coverLetter} />
                 <Buttons>
                     <Button variant="primary" onClick={() => generateCoverLetter(keywords, resume)}>
                         Generate Cover Letter Template
@@ -145,6 +144,7 @@ const ResultsPage = () => {
                         Start Over
                     </Button>
                 </Buttons>
+                <CoverLetter letter={coverLetter} />
             </div>
         )
 };
@@ -155,6 +155,7 @@ const Keys = styled.span`
     color: white;
     font-size: 30px;
     font-family: sans-serif;
+    margin-left: 20px;
 `;
 
 const Container = styled.div`
