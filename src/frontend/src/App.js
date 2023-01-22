@@ -8,6 +8,7 @@ import Edit from "./components/edit";
 import Create from "./components/create";
 import LandingPage from "./screens/LandingPage";
 import ResumeAndURLPage from "./screens/ResumeAndURLPage";
+import ResultsPage from "./screens/ResultsPage";
  
 const App = () => {
  return (
@@ -19,6 +20,7 @@ const App = () => {
        <Route path="/create" element={<Create />} />
        <Route path="/cohere" element={<Create />} />
        <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
+       <Route path="/result" element={<ResultsPage />} />
      </Routes>
    </div>
  );
