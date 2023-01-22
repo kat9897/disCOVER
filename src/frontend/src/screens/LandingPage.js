@@ -2,11 +2,8 @@ import React, { useEffect } from 'react'
 
 import styled from "styled-components";
 import Button from 'react-bootstrap/Button';
-
-import Arrow from "../images/Arrow 1.png";
-//import Discover from "../images/only-words.png";
-import Discover from "../images/disCOVER.png";
-import background from '../images/background2.gif';
+import Discover from "../images/disCOVER-colour.png";
+import logo from "../images/logo.png"
 import { NavLink } from "react-router-dom"; 
 
 const LandingPage = () => {
@@ -34,13 +31,13 @@ const LandingPage = () => {
     return (
         <LandingContainer>
             <NavLink className="nav-link" to="/resume-and-url">
+                <img className="landing-logo" src={logo} alt="Logo"/>
                 <Words>
                     <UnleashText>We've got you covered.</UnleashText>
                     <DiscoverText>
-                        <img src={Discover} alt="Discover" style={{height: "200px"}}/>
+                        <img src={Discover} alt="Discover" style={{height: "280px"}}/>
                     </DiscoverText>
                         <YourFutureText>Your Future</YourFutureText>
-                    <ArrowSymbol />
                 </Words>
                 <BackgroundCircles>
                     <RightContainer>
@@ -74,18 +71,6 @@ top: 90px;
 background: url(only-words.png);
 `;
 
-const ArrowSymbol = styled.div`
-box-sizing: border-box;
-
-position: absolute;
-width: 215.61px;
-height: 0px;
-left: 1478.5px;
-top: 364.49px;
-
-border: 15.4011px solid #00E4C6;
-`;
-
 const YourFutureText = styled.h1`
 /* Your Future */
 
@@ -93,8 +78,8 @@ const YourFutureText = styled.h1`
 position: absolute;
 width: 975.4px;
 height: 205.35px;
-left: 487.7px;
-top: 261.82px;
+left: 740px;
+top: 280px;
 
 font-family: 'Arial';
 font-style: normal;

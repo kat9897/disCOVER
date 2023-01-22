@@ -11,6 +11,13 @@
     color: rgb(107, 238, 236);
 }
 
+.landing-logo {
+    position: fixed;
+    left: 680px;
+    top: 30px;
+    width: 600px;
+}
+
 .form-body {
     margin-top: 10px;
 }
