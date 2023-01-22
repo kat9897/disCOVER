@@ -3,58 +3,54 @@ import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 import '../styles/App.css';
-import cohere from 'cohere-ai';
 
 const ResumeAndURLPage = () => {
-    const [jobURL, setJobURL] = useState();
+    const [job, setJob] = useState();
     const [resume, setResume] = useState();
 
-    const onInputJobURL = ({target:{value}}) => setJobURL(value);
+    const onInputJob = ({target:{value}}) => setJob(value);
+    const onInputResume = ({target:{value}}) => setResume(value);
     const onFormSubmit = e => {
         e.preventDefault()
         if (!e.target.files[0]) {
             return;
         }
-        console.log(jobURL)
-        setJobURL()
-        setResume(e.target.files[0])
+        console.log(job)
+        console.log(resume);
     };
-    cohere.init(process.env.COHERE_API_KEY);
-    (async () => {
-        const response = await cohere.generate({model: 'invalid-model'});
-      
-        if (response.statusCode !== 200) {
-            console.log(response.body.message);
-        }
-        console.log(response.body);
-      })();
 
     return (
         <Container>
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
 
-            <UnleashText>Congratulations on taking your first step to success! Please upload the Job Posting URL you are looking at and your updated resume.</UnleashText>
+            <UnleashText>Congratulations on taking your first step to success! 
+            Please copy and paste your job description for the desired Job Posting 
+             and your latest resume.</UnleashText>
             <Form onSubmit={onFormSubmit}>
 
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
-                        type="text" 
-                        placeholder="Enter Job URL"
-                        onChange={onInputJobURL}
+                        type="textarea" 
+                        placeholder="Enter Job Posting Data"
+                        onChange={onInputJob}
                     />
                     <Form.Text className="text-muted">
-                    Please only enter one job URL in this field.
+                    Please only enter copied job posting data in this field. Otherwise, results may vary.
                     </Form.Text>
                 </Form.Group>
-                <Form.Group controlId="formFile" className="mb-3">
+                <Form.Group className="mb-3" controlId="formFile">
                     <Form.Label>Upload Resume</Form.Label>
-                    <Form.Control type="file" accept='.pdf, .doc, .docx'/>
+                    <Form.Control 
+                        type="textarea" 
+                        placeholder="Enter Resume Data"
+                        onChange={onInputResume}
+                    />
                     <Form.Text className="text-muted">
-                    Please only upload either .pdf or .doc files.
+                    Please only enter copied resume data in this field. Otherwise, results may vary.
                     </Form.Text>
                 </Form.Group>
-                <Button variant="primary" type="submit" onSubmit={onFormSubmit}>
+                <Button variant="primary" type="submit">
                     Submit
                 </Button>
             </Form>
