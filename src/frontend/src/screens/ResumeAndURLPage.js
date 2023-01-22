@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 import '../styles/App.css';
+import cohere from 'cohere-ai';
 
 const ResumeAndURLPage = () => {
     const [jobURL, setJobURL] = useState();
@@ -18,6 +19,15 @@ const ResumeAndURLPage = () => {
         setJobURL()
         setResume(e.target.files[0])
     };
+    cohere.init(process.env.COHERE_API_KEY);
+    (async () => {
+        const response = await cohere.generate({model: 'invalid-model'});
+      
+        if (response.statusCode !== 200) {
+            console.log(response.body.message);
+        }
+        console.log(response.body);
+      })();
 
     return (
         <Container>
@@ -44,17 +54,13 @@ const ResumeAndURLPage = () => {
                     Please only upload either .pdf or .doc files.
                     </Form.Text>
                 </Form.Group>
-                <Button variant="primary" type="submit" onSubmit={afterSubmit}>
+                <Button variant="primary" type="submit" onSubmit={onFormSubmit}>
                     Submit
                 </Button>
             </Form>
         </Container>
     )
 }
-
-const afterSubmit = (e) => {
-    
-};
 
 const Container = styled.div`
     display: flex;
