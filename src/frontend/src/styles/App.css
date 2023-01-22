@@ -28,6 +28,10 @@ html, body {
     width: 600px;
 }
 
+.form-wrapper{
+    display: contents;
+}
+
 .form-body {
     margin-top: 10px;
 }

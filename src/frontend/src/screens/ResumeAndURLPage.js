@@ -24,11 +24,11 @@ const ResumeAndURLPage = () => {
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
 
             <UnleashText>Congratulations on taking your first step to success! 
-            Please copy and paste your job description for the desired Job Posting 
+            Please copy and paste the job description for the desired Job Posting 
              and your latest resume.</UnleashText>
-            <Form onSubmit={onFormSubmit}>
+            <Form className="form-wrapper" onSubmit={onFormSubmit}>
 
-                <Form.Group className="mb-3" controlId="formJobURL">
+                <Form.Group className="form-elem" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
                         type="textarea" 
@@ -39,7 +39,7 @@ const ResumeAndURLPage = () => {
                     Please only enter copied job posting data in this field. Otherwise, results may vary.
                     </Form.Text>
                 </Form.Group>
-                <Form.Group className="mb-3" controlId="formFile">
+                <Form.Group className="form-elem" controlId="formFile">
                     <Form.Label>Upload Resume</Form.Label>
                     <Form.Control 
                         type="textarea" 
@@ -61,6 +61,7 @@ const ResumeAndURLPage = () => {
 const Container = styled.div`
     display: flex;
     align-text: center;
+    text-align: center;
     flex-direction: column;
     align-items: center;
     padding: 20px;
@@ -88,26 +89,28 @@ const Button = styled.button`
   }
 `;
 
-const UnleashText = styled.h3`
+const UnleashText = styled.h2`
 /* Unleash your inner explorer and */
 
-    position: absolute;
-    width: 1714.65px;
-    height: 75px;
+    position: relative;
     left: 0px;
     top: 0px;
 
-    font-family: 'Arial';
+    background-image: linear-gradient(45deg,#3dffef,#d51e85);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-size: 50px;
+    font-family: 'Georgia';
     font-style: normal;
-    font-weight: 700;
-    font-size: 61.6043px;
-    line-height: 75px;
     /* identical to box height */
 
     display: flex;
     align-items: center;
 
-    color: #0080FF;
+    color: #78e5f0;
 
 `;
 

@@ -7,7 +7,7 @@ const ResultsPage = () => {
     const [jobURL, setJobURL] = useState();
     const [resume, setResume] = useState();
 
-    const keyphrases = 'development, .NET, .NET Core, Microsoft SQL Server, Transact-SQL, software engineering, functional programming, object-oriented programming, solution architect, Microservices, Agile, code reviews, QA, business requirements, architecture'
+    const keyphrases = 'development, .NET, .NET Core, Microsoft SQL Server, Transact-SQL, software engineering, functional programming, object-oriented programming, solution architect, Microservices, Agile, code reviews, QA, business requirements, architecture';
 
     const onInputJobURL = ({target:{value}}) => setJobURL(value);
     const onFormSubmit = e => {
@@ -23,7 +23,6 @@ const ResultsPage = () => {
     return (
         <div>
             <Container>
-                {/* <h1>You can't do anything until you take a step forward!</h1> */}
                 <UnleashText>Here are the key skills and proficiencies we found from your job posting!</UnleashText>
             </Container>
             <Bontainer>
@@ -84,26 +83,28 @@ const Button = styled.button`
   }
 `;
 
-const UnleashText = styled.h3`
+const UnleashText = styled.h2`
 /* Unleash your inner explorer and */
 
     position: relative;
-    width: 1714.65px;
-    height: 75px;
-    left: 105px;
+    left: 0px;
     top: 0px;
 
-    font-family: 'Arial';
+    background-image: linear-gradient(45deg,#3dffef,#d51e85);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-size: 50px;
+    font-family: 'Georgia';
     font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 75px;
     /* identical to box height */
 
     display: flex;
     align-items: center;
 
-    color: #0080FF;
+    color: #78e5f0;
 
 `;
 
