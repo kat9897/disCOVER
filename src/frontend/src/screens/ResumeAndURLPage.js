@@ -109,19 +109,22 @@ const ResumeAndURLPage = () => {
              and your latest resume.</UnleashText>
             <Form className="form-wrapper" onSubmit={onFormSubmit}>
                 <Form.Group className="form-elem" controlId="formJobURL">
-                    <Form.Label>Job URL</Form.Label>
+                    <Form.Label>Job Listing</Form.Label>
                     {/* <Form.Control 
                         className="text-input"
                         type="textarea" 
                         placeholder="Enter Job Posting Data"
                         onChange={onInputJob}
                     /> */}
+                    <br/>
                     <textarea
+                        className="text-input"
                         placeholder="Enter Job Posting Data"
                         rows={10}
                         cols={50}
                         onChange={onInputJob}
                     />
+                    <br/>
                     <Form.Text className="text-muted">
                     Please only enter copied job posting data in this field. Otherwise, results may vary.
                     </Form.Text>
@@ -134,12 +137,15 @@ const ResumeAndURLPage = () => {
                         placeholder="Enter Resume Data"
                         onChange={onInputResume}
                     /> */}
+                    <br/>
                     <textarea
+                        className="text-input"
                         placeholder="Enter Resume Data"
                         rows={10}
                         cols={50}
                         onChange={onInputResume}
                     />
+                    <br/>
                     <Form.Text className="text-muted">
                     Please only enter copied resume data in this field. Otherwise, results may vary.
                     </Form.Text>
@@ -174,7 +180,6 @@ const Button = styled.button`
   display: block;
   background-color: transparent;
   transition: 0.5s;
-  margin-top: 800px;
   &:hover {
     background-color: #003784;
     border-color: transparent;
