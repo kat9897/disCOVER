@@ -1,9 +1,11 @@
 import React, { useState } from 'react'
-import { useNavigate } from 'react-router';
+import { useLocation } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 
+
 const ResultsPage = () => {
+    const { state } = useLocation();
     const [jobURL, setJobURL] = useState();
     const [resume, setResume] = useState();
 

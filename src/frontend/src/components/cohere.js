@@ -38,7 +38,8 @@ const Cohere = () => {
               max_tokens: 20,
               return_likelihoods: 'NONE',
               truncate: 'END',
-              prompt: 'Once upon a time in a magical land called'
+              model:"xlarge",
+              prompt: 'Write a cover letter based on this info: ${p}'
             }
           };
           
