@@ -12,17 +12,3 @@ web-build/
 
 # macOS
 .DS_Store
-src/frontend/package-lock.json
-src/backend/package-lock.json
-src/backend/config.env
-package.json
-package-lock.json
-src/package-lock.json
-src/package.json
-*.json
-src/backend/config.env
-src/backend/package-lock.json
-src/frontend/package-lock.json
-src/backend/config.env
-src/backend/package-lock.json
-src/frontend/package-lock.json
