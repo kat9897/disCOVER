@@ -1,9 +1,10 @@
 import React, { useState } from 'react'
-import { Navigate, useNavigate } from 'react-router';
+import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 import '../styles/App.css';
 import axios from 'axios';
+import { createSearchParams } from 'react-router-dom';
 
 const ResumeAndURLPage = () => {
     const [job, setJob] = useState();
@@ -16,63 +17,32 @@ const ResumeAndURLPage = () => {
 
     const onFormSubmit = async (e) => {
         e.preventDefault()
+        if(!e.target[0].value) {
+            window.alert("You have not entered a Job Posting!");
+            return;
+        }
+        if(!e.target[1].value) {
+            window.alert("You have not entered a Resume!");
+            return;
+        }
         setJob(e.target[0].value);
         setResume(e.target[1].value);
-
-        //console.log("Job: ", job);
-        //console.log("Resume: ", resume);
         let keywords = await generateKeyWords(job);
 
-        console.log("keywords: ", keywords);
-        const coverLetter = await generateCoverLetter(keywords, resume);
-
-        navigate("/result", {
-            state: {
+        navigate({
+            pathname: "/result",
+            search: createSearchParams({
                 keywords: keywords,
-                coverLetter: coverLetter,
-            }
+                resume: resume,
+            }).toString()
         });
     };
 
     const cohere = require('cohere-ai');
     cohere.init(process.env.COHERE_API_KEY);
 
-    async function generateCoverLetter(keywords, resume) {
-        const promptTmp = "Write a cover letter for applying to a job based on the following keywords and resume:\n\nKEYWORDS: {keyword}\nRESUME: {resume}\n--";
-        console.log("Keywords", keywords);
-        console.log("Resume", resume);
-        const options = await {
-            method: 'POST',
-            url: 'https://api.cohere.ai/generate',
-            headers: {
-              "accept": 'application/json',
-              'Cohere-Version': '2022-12-06',
-              'content-type': 'application/json',
-              "authorization": 'Bearer L0V2AxxD2airpTVmSpgaGpWVz82oHd62QiwyA5uD'
-            },
-            data: {
-              max_tokens: 500,
-              temperature: 0.9,
-              stop_sequences: ["--"],
-              model:"command-xlarge-nightly",
-              prompt: promptTmp,
-            }
-          };
-          
-          axios
-            .request(options)
-            .then(await function (response) {
-                console.log(response.data.generations[0].text);
-                return response.data.generations[0].text;
-            })
-            .catch(function (error) {
-              console.error(error);
-            });
-    }
-    
     async function generateKeyWords(job) {
         const promptTmp = "POSTING: "+ job + "\nKEYPHRASES:";
-        console.log("Prompt:",promptTmp);
         const options = await {
             method: 'POST',
             url: 'https://api.cohere.ai/generate',
@@ -93,7 +63,7 @@ const ResumeAndURLPage = () => {
           axios
             .request(options)
             .then(await function (response) {
-              console.log(response.data.generations[0].text);
+              //console.log(response.data.generations[0].text);
               return response.data.generations[0].text;
             })
             .catch(function (error) {
