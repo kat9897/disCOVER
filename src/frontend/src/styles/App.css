@@ -32,12 +32,29 @@ html, body {
     display: contents;
 }
 
+.form-elem{
+    margin-top: 20px;
+}
+
+.text-input{
+    font-size: 15px;
+    margin: 10px;
+}
+
+.text-muted{
+    font-family: 'Georgia';
+    color: #4f8ebd;
+    font-size: 15px;
+}
+
 .form-body {
     margin-top: 10px;
 }
 
 .form-label {
-    color: rgb(88, 155, 147);
+    font-family: 'Georgia';
+    color: #1693ff;
+    font-size: 25px;
 }
 
 .App {
