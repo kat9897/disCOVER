@@ -44,7 +44,7 @@ html, body {
 }
 
 .text-muted{
-    font-family: 'Georgia';
+    font-family: sans-serif;
     color: #4f8ebd;
     font-size: 25px;
 }
