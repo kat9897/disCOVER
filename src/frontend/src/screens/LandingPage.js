@@ -67,6 +67,7 @@ width: 554.44px;
 height: 96.26px;
 left: 365.78px;
 top: 90px;
+transition: 0.5s;
 
 background: url(only-words.png);
 `;
@@ -80,6 +81,8 @@ width: 975.4px;
 height: 205.35px;
 left: 740px;
 top: 280px;
+transition: 0.5s;
+
 
 font-family: 'Arial';
 font-style: normal;
@@ -100,6 +103,8 @@ const UnleashText = styled.h3`
     height: 75px;
     left: 0px;
     top: 0px;
+    transition: 0.5s;
+
 
     font-family: 'Arial';
     font-style: normal;
