@@ -2,11 +2,8 @@ import React from 'react'
 
 import styled from "styled-components";
 import Button from 'react-bootstrap/Button';
-import Arrow from "../images/Arrow 1.png";
-//import Discover from "../images/only-words.png";
-import Discover from "../images/disCOVER.png";
+import Discover from "../images/disCOVER-colour.png";
 import logo from "../images/logo.png"
-import background from '../images/background2.gif';
 import { NavLink } from "react-router-dom"; 
 
 const LandingPage = () => {  
@@ -18,7 +15,7 @@ const LandingPage = () => {
                 <Words>
                     <UnleashText>We've got you covered.</UnleashText>
                     <DiscoverText>
-                        <img src={Discover} alt="Discover" style={{height: "200px"}}/>
+                        <img src={Discover} alt="Discover" style={{height: "280px"}}/>
                     </DiscoverText>
                         <YourFutureText>Your Future</YourFutureText>
                 </Words>
@@ -52,18 +49,6 @@ left: 365.78px;
 top: 90px;
 
 background: url(only-words.png);
-`;
-
-const ArrowSymbol = styled.div`
-box-sizing: border-box;
-
-position: absolute;
-width: 215.61px;
-height: 0px;
-left: 1478.5px;
-top: 364.49px;
-
-border: 15.4011px solid #00E4C6;
 `;
 
 const YourFutureText = styled.h1`
