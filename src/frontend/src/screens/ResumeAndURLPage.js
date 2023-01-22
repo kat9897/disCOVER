@@ -27,49 +27,19 @@ const ResumeAndURLPage = () => {
         }
         setJob(e.target[0].value);
         setResume(e.target[1].value);
-        let keywords = await generateKeyWords(job);
+        //let keywords = await generateKeyWords(job);
 
         navigate({
             pathname: "/result",
             search: createSearchParams({
-                keywords: keywords,
-                resume: resume,
+                job: e.target[0].value,
+                resume: e.target[1].value,
             }).toString()
         });
     };
 
     const cohere = require('cohere-ai');
     cohere.init(process.env.COHERE_API_KEY);
-
-    async function generateKeyWords(job) {
-        const promptTmp = "POSTING: "+ job + "\nKEYPHRASES:";
-        const options = await {
-            method: 'POST',
-            url: 'https://api.cohere.ai/generate',
-            headers: {
-              "accept": 'application/json',
-              'Cohere-Version': '2022-12-06',
-              'content-type': 'application/json',
-              "authorization": 'Bearer L0V2AxxD2airpTVmSpgaGpWVz82oHd62QiwyA5uD '
-            },
-            data: {
-              max_tokens: 50,
-              temperature: 0.9,
-              model:"0ea2ca4f-725f-478a-b6e6-b7d46735d13e-ft",
-              prompt: promptTmp,
-            }
-          };
-          
-          axios
-            .request(options)
-            .then(await function (response) {
-              //console.log(response.data.generations[0].text);
-              return response.data.generations[0].text;
-            })
-            .catch(function (error) {
-              console.error(error);
-            });
-    }
 
     return (
         <Container>
@@ -79,13 +49,7 @@ const ResumeAndURLPage = () => {
              and your latest resume.</UnleashText>
             <Form className="form-wrapper" onSubmit={onFormSubmit}>
                 <Form.Group className="form-elem" controlId="formJobURL">
-                    <Form.Label>Job Listing</Form.Label>
-                    {/* <Form.Control 
-                        className="text-input"
-                        type="textarea" 
-                        placeholder="Enter Job Posting Data"
-                        onChange={onInputJob}
-                    /> */}
+                    <Form.Label><Title>Job Listing</Title></Form.Label>
                     <br/>
                     <textarea
                         className="text-input"
@@ -100,13 +64,7 @@ const ResumeAndURLPage = () => {
                     </Form.Text>
                 </Form.Group>
                 <Form.Group className="form-elem" controlId="formFile">
-                    <Form.Label>Upload Resume</Form.Label>
-                    {/* <Form.Control 
-                        className="text-input"
-                        type="textarea" 
-                        placeholder="Enter Resume Data"
-                        onChange={onInputResume}
-                    /> */}
+                    <Form.Label><Title>Upload Resume</Title></Form.Label>
                     <br/>
                     <textarea
                         className="text-input"
@@ -127,6 +85,10 @@ const ResumeAndURLPage = () => {
         </Container>
     )
 }
+
+const Title = styled.h2`
+    font-family: sans-serif;
+`;
 
 const Container = styled.div`
     display: flex;
@@ -172,7 +134,7 @@ const UnleashText = styled.h2`
     -webkit-text-fill-color: transparent;
 
     font-size: 50px;
-    font-family: 'Georgia';
+    font-family: sans-serif;
     font-style: normal;
     /* identical to box height */
 
