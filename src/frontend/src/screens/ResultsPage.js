@@ -59,7 +59,8 @@ const ResultsPage = () => {
                 <UnleashText>Here are the key skills and proficiencies we found from your job posting!</UnleashText>
             </Container>
             <Bontainer>
-                <span class = "bolded"> Key Phrases: </span> {keywords}
+                <br></br><br></br><br></br><br></br><br></br>
+                <span className="bolded"> Key Phrases: </span> {keywords}
             </Bontainer>
             <Buttons>
                 <Button variant="primary" onClick={() => generateCoverLetter(keywords, resume)}>
@@ -109,7 +110,7 @@ const Buttons = styled.div`
     align-items: center;
     align-text: center;
     position: relative;
-    bottom: -200px;
+    bottom: -50px;
 `;
 
 const Button = styled.button`
