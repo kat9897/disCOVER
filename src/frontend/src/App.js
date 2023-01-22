@@ -13,7 +13,7 @@ export default class App extends Component{
         <Routes>
           <Route exact default path="/" element={<LandingPage />} />
           <Route path="/resume-and-url" element={<ResumeAndURLPage />} />
-          <Route path="/cohere" element={<Cohere />} />
+          {/* <Route path="/cohere" element={<Cohere />} /> */}
         </Routes>
       </div>
     );
