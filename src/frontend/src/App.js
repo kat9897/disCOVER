@@ -8,6 +8,7 @@ import Create from "./components/create";
 import LandingPage from "./screens/LandingPage";
 import ResumeAndURLPage from "./screens/ResumeAndURLPage";
 import ResultsPage from "./screens/ResultsPage";
+import './styles/App.css'; 
 
 export default class App extends Component{
   render() {

@@ -1,0 +1,1467 @@
+POSTING: Dairy Central and CJR Wholesale Grocers have been serving Ontario for over 30 years. We pride ourselves in offering one stop shop for customer’s grocery, cooler and freezer needs. We strive to offer a best in class customer experience.
+
+Career Opportunity:
+
+The role of our Data Scientist will be responsible to design data modeling processes to create algorithms, perform custom analysis. and predictive modeling.
+
+Responsibilities:
+
+1. Acquire data from the existing ERP system
+
+2. Process and clean the information and data
+
+3. Initial data investigation and exploratory data analysis
+
+4. Choose one or more potential models and algorithms
+
+5. Apply data science techniques, such as machine learning, statistical modeling and artificial intelligence
+
+6. Measure and improve results
+
+7. Present final result to stakeholders
+
+8. Make adjustments based on the feedback
+
+9. Continue the process to solve multiple problems
+
+Skills and Qualifications:
+
+Statistical analysis: Identify patterns in data. This includes having a keen sense of pattern detection and anomaly detection.
+Machine learning: Implement algorithms and statistical models to enable a computer to automatically learn from data.
+Business intuition: Connect with stakeholders to gain a full understanding of the problems they’re looking to solve.
+Analytical thinking. Find analytical solutions to abstract business issues.
+Inquisitiveness: Look beyond what’s on the surface to discover patterns and solutions within the data.
+Degree in a STEM discipline (applied mathematics, computer science, statistics, engineering, machine learning, econometrics etc.)
+Job Types: Full-time, Permanent
+
+Schedule:
+
+8 hour shift
+Ability to commute/relocate
+
+Mississauga, ON L4Z 1T5: reliably commute or plan to relocate before starting work (required)
+Experience:
+
+Machine learning: 1 year (preferred)
+Work Location: One location
+KEYPHRASES: Dairy, Wholesale, customer experience, Data Scientist, data modeling processes, algorithms, custom analysis, predictive modeling, ERP system, data investigation, exploratoyr data analysis, data science, machine learning, statistical modeling, artifical intelligence, statistical analysis, business intution, connect with stakeholders, analytical thinking, inquisitieness, applied mathematics, STEM, computer science, statistics, entineering, econometrics
+----------------------------------------
+POSTING: We are looking for a Business Intelligence Analyst to join a team of passionate and driven individuals who help equip business with insights and data to make a difference in the community.
+
+Position Summary
+
+Do you enjoy storytelling with data? Are you passionate about Data Science and Machine Learning? This is a new role within the data team who is involved in BI strategy formulation, stakeholder engagement and data communication/data storytelling. The incumbent will be a hands-on analyst who is involved with end-to-end delivery of BI products. The successful candidate will liaison with the business to build strong knowledge of the business operations and help understand and capture business requirements. They will then champion these requirements and collaborate closely with technical teams to realize it into dashboards, reports, KPIs and alerts. To achieve this, the incumbent will facilitate and lead information gathering sessions, create formal documentation, and build presentation of insights with business. The successful candidate will need to be adept in creating stunning data visualizations and be comfortable with reading and modifying SQL queries. Finally, the individual will collaborate with department managers to create and maintain BI and data strategies, as well as to provide training to other teams. There is also an optional data science and machine learning component where the incumbent is sometimes provided opportunities to apply their statistical or ML expertise to different scenarios as business need arises.
+
+This role is classified as hybrid where you would be primarily working remote, but may be asked to come into our head office in Markham as needed.
+
+Responsibilities:
+
+Requirements Gathering, Analysis and Documentation
+
+Work with business to understand requirements and turn them into user stories / formal specification documents – become the owner of the business requirements from the BI team perspective
+Develop deep knowledge about business processes and their data and analytics needs
+Formal documentation of workflows using standardized specifications
+Go beyond the obvious to identify Intelligence related data insights requirements and use cases
+Data Visualization
+
+Storytelling with data: create articulate and visually appealing visuals using BI tools including MicroStrategy, MS BI Stack, etc.
+Collaborate closely with BI developers to develop dashboards, reports and present key insights to stakeholders
+Assist multiple projects in evaluating, validating, and capturing data / analytics needs
+Be a BI strategist: assist with creation and adherence to BI strategies
+As needed/required, utilize tools such as SSIS, SSRS, SSAS, MicroStrategy, Power BI
+Support Stakeholders and BI Users
+
+Be proactive in helping team to improve in how intelligence related services are being delivered
+Support business user community – be the BI contact person when it comes to training
+Assist in creation of training material for business and power users as required
+Learn the BI tool and train others in business to help drive self-serve dashboard approach in organization
+QA
+
+Conduct QA activities such as data validation, creating test cases and testing as required
+Create SQL queries to conduct data quality and data validation tasks and to automate testing
+Assist in development of the test plan and execution
+Verify that data quality is maintained; take initiatives to highlight issues and help resolve them based on industry best practices, continuously improve the user experience, and conduct research in recent trends and data science concepts.
+Data Science / Machine Learning
+
+From time to time, apply advanced statistical or machine learning methods to operational or business problems.
+As needed, propose and implement predictive analytics via Python or R
+
+Requirements:
+
+College degree, Bachelor’s or Master’s degree in Information Systems, Business Management, Computer Science/Software Engineering, Research Methods, Health Informatics, or specialized training / certification
+1+ years of experience in the analytics / data related business analysis area
+Proven and established track-record of creating stunning data visualizations. This is a key factor in selecting the candidate.
+Healthcare experience is considered a strong plus
+Strongly recommended that you bring with you a portfolio of past data visualization work
+Good understanding of data management, analytics and business intelligence concepts
+Working understanding of reporting / business intelligence tools
+Knowledge / practical experience in SQL, data mining, data warehouse (T-SQL is preferred)
+Understanding of RDBM concepts and data analytics
+QA/data validation experience via SQL – preferably using scripts
+Knowledge of diagramming tools is considered an asset
+Understanding of ML/AI concepts is considered a strong asset
+Understanding of Python is considered a strong asset
+Expertise in advanced statistics is considered a strong asset
+Self-motivated, ability to take direction and work independently
+Ability to work well in a team environment
+Strong verbal and written communication skills
+Attention to detail and produce quality work outputs
+About Us:
+
+At SE, we love what we do. Every day, we bring hope and happiness to clients, homes, and communities across Canada. We treat each person with dignity and love, like our own family; we build empathy; and we do the right thing. We are always inspired to make a difference. As a not-for-profit social enterprise, we share knowledge, provide the best care, and help each client to realize their most meaningful goals for health and wellbeing. We’re a great place to work, and we hope you’ll join our team.
+
+Please note that due to the unprecedented circumstance of the Global Pandemic and the resultant public health crisis; and in the interest of the health and safety of our patients/clients, employees, and greater good of public health, SE Health requires those that wish to work for this organization to be fully vaccinated against COVID-19. Fully vaccinated means a person has received both doses of the COVID-19 vaccine and it has been 14 days since the last dose.
+
+Saint Elizabeth is committed to the success of all its employees. If you feel you need accommodations because of illness or disability, please do not hesitate to contact the Talent Acquisition team at careers@sehc.com at your earliest convenience.
+
+Please apply online christalwasher@sehc.com
+
+KEYPHRASES: storytelling, data, pattern detection, anomaly detection, BI products, business operations, reports, KPIs, dashboards, formal documentation, SQL queries, data visualisation, data science, machine learning, Microstrategy, MS BI Stack, SSIS, SSRS, SSAS, Power BI, QA activities, data validation, ML/AI concepts, Python, business intelligence, SQL, data mining, data warehouse, T-SQL, RDBM ,data analytics, diagramming tools, Self-motivated, work independently, team enviroment, verbal and written communication skills, attention to detail, Canada, health, wellbeing, Global Pandemic, health and safety.
+----------------------------------------
+POSTING: Licensed 310J Trailer Mechanics are needed at a trailer repair facility in Mississauga!
+
+This is a great opportunity to continue gaining experience as a licensed technician while working with a reputable company that offers career growth. Technicians are tasked with the maintenance and repair of new and used trailers, from a wide-variety of manufacturers.
+
+Job Requirements:
+Have an active Ontario 310J license.
+Be able to maintain and repair a variety of trailers (box vans, flat beds, car carriers, etc.)
+Be able to complete brake inspections/repairs and complete PMs.
+Have experience troubleshooting and repairing electrical shorts and faults.
+Possess welding experience.
+Have experience servicing refrigerated trailer units (preferred, not required).
+Technicians must possess a set of tools.
+Have a valid drivers license.
+Compensation:
+$28.00 - $38.00/hour. Starting wage is dependent on previous experience.
+Full benefits package is offered after the 90 Day probationary period.
+Tool allowance included!
+Shifts:
+Day Shift, (Monday to Friday). 8 hour shifts with flexible start times.
+Flexible shifts can be worked out if needed - for the right mechanic.
+Overtime is available!
+All Licensed 310J Trailer Mechanics are encouraged to apply!
+KEYPHRASES: trailer repair, Mechanics, licensed technician, maintanence and repair, manufacturers, Ontario 310J license, maintain and repair, brake inspections, troubleshooting, electrical shorts, electrical faults, welding experience, refrigerated trailer units, valid drivers license, Tool allowance
+----------------------------------------
+POSTING: Red River Co-op is recruiting for the position of Chief Executive Officer (CEO) based in Winnipeg, Manitoba.
+
+We offer a comprehensive relocation package for the successful candidate as the role is required to be in Winnipeg, Manitoba.
+
+Who We Are:
+
+We are a locally owned cooperative committed to serving the Manitoba communities of Winnipeg, Gimli, Selkirk, Teulon, Stonewall, Lorette, Headingley, Niverville, St. Norbert, and Ste. Agathe, as well as the Ontario communities of Kenora and Dryden. We service 320,000 members with revenues of approximately $800,000,000. We have deep roots in our community: 85 years deep. Through the years we have proven our commitment to our members by making their priorities our priorities. We donate regularly to a wide range of organizations, feature local products prominently, and most importantly, give back to our members through profit sharing.
+
+As our communities have grown, so have we; we continually evolve and grow to meet the needs of the communities we serve, and we just keep growing as we develop fresh, modern ways to deliver premium products with extraordinary customer service.
+
+We are a proud member of the Federated Co-operative Limited (FCL) Co-operative Retailing System (CRS), a vast network of 160 retail Co-ops across western Canada. Red River Co-op has been recognized as one of Manitoba’s Top Employers for the past 3 years.
+
+What You’ll Do:
+
+Reporting to the Board of Directors, the CEO leads Red River Co-op towards achievement of a board-approved vision by developing and implementing a business strategy that fully leverages the organization’s capabilities by creating conditions in which team members can contribute to the full extent of their potential.
+
+Essential responsibilities of the position include the following:
+
+Lead the development and implementation of a board-approved strategic direction and strategy for Red River Co-op, ensuring appropriate integration across all operations and business lines, evaluating opportunities for diversification, and ensuring alignment to the vision, mission, and values of the organization.
+Ensure the financial integrity and wellbeing of the organization by taking overall responsibility for financial governance, risk management and the health of the Co-operative.
+Oversee acquisition and merger opportunities, diversification strategies and other long-term capital projects
+Oversee the safe, sustainable, and efficient operations of the organization and lead the innovation of processes and services.
+Drive targeted growth of sales and performance to improve profitability and overall customer experience.
+Lead a high-performing, adaptive team through transformational change initiatives, by communicating the mission, vision, values, and strategic direction of the organization with the goal of inspiring a diverse workforce to achieve Red River Co-op's strategic business plans.
+Build trust through visible leadership, transparent reporting, and seeking and responding to feedback.
+Ensure Red River Co-op has an effective relationship with the Board of Directors by identifying priorities, issues and strategic challenges within the organization and ensuring consistent and clear communication.
+Work closely with the CRS in maintaining a mutually beneficial relationship.
+Additional details will be provided to candidates selected for interviews.
+
+Who You Are:
+
+You have proven executive leadership experience within the retail sector with solid business acumen in retail operations, finance, marketing, human resources, and administration. You have been successful in executing a growth strategy within a large multi-location organization. As well:
+
+You have a relevant bachelor's degree.
+You have 15+ years of management experience in several retail commodities (e.g., food stores, gas bars/convenience stores, petroleum, agriculture, and pharmacy) with 10+ years of experience focused on leading large teams and projects.
+You have a general knowledge of co-operatives and familiarity with and belief in the Co-op Principles.
+You have experience working with and reporting to a Board of Directors.
+You have an entrepreneurial mindset and a strong understanding of the financial aspects of the business including risk management, profit, and loss, mergers and acquisitions and diversification.
+Adequate information system technology knowledge is strongly preferred.
+You are honest and trustworthy, are results-oriented and strive to be the best in what you do.
+You believe in building relationships and collaborating to deliver solutions that matter most, and you recognize the value that different perspectives bring to meet shared objectives.
+A combination of education and/or experience may be considered.
+Our Team Members receive competitive salaries, a comprehensive benefits package, and an employer-contributed pension plan. We encourage our Team Members to take advantage of learning opportunities, to grow and develop, and to foster a culture of teamwork and innovation.
+
+If selected for an interview, we are committed to providing reasonable accommodations throughout the recruitment process to ensure an enjoyable candidate experience for all to allow you to be at your best. If you require accommodations throughout the recruitment process, please submit a confidential request by contacting the FCL Manager, Employee Experience at (639)-998-1933.
+
+We thank all candidates for their interest, however only those selected to continue in the recruitment process will be contacted.
+
+Please note you may be required to undergo a background check and substance test in accordance with Red River Co-op policies.
+
+If you share our commitment to community, combined with a fresh, innovative vision for our future, please send your resumé in confidence before January 24, 2023
+
+If you require support to apply for this opportunity, please contact whitney.mcneill@fcl.crs
+
+Interested in this role, but don’t meet every single requirement? Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. At Red River Co-op, we are committed to creating a workforce that is as diverse as our communities, so if this sounds like something you would be interested in, we encourage you to apply!
+KEYPHRASES: Manitoba communities, profit sharing, retail, business strategy, Lead the development and implimentation of strategic direction, appropriate integration, evaluate opportunities, diversification, ensuring allignment, financial integrity, financial governance, risk management, acquisition, merger opportunities, long-term capital projects, sustainable, efficient operations, targeted growth, 15+ years of management experience, retail commodities, food stores, gas bars, convenience stores, petroleum, agriculture, pharmacy, 10+ years of experience focused on leading alrge teams and projects, Co-op Principles, entrepreneurial mindset, financial aspects of business, information systems, technology knwoledge, honest, trustworthy, results-oriented, building relationships, collaorating, different perspectives.
+----------------------------------------
+POSTING: Job type
+
+2 – 4 month contract
+Qualifications
+
+SharePoint: 3 years (Required)
+Bachelor's Degree (Preferred)
+IT: 5 years (Preferred)
+Full Job Description
+
+Marsim Auto Group is a medium sized automotive group with three brands and over 100 employees. Family-owned and community oriented, we are a Toronto-based company that currently sells both new and pre-owned Hyundai, Genesis and Kia branded vehicles. We have earned a strong reputation as a people-first organization by following our core values of customer service, integrity, respect and passion for results.
+
+SharePoint Administrator
+
+Reporting to the I.T & Process Manager, the SharePoint Administrator will be responsible for deploying and implementing a new Document Management System (DMS) in SharePoint Online as well as providing technical support for the Office 365 and SharePoint environment. The successful candidate will lead the deployment of new internal SharePoint sites (Teams/Intranet) and implement a SharePoint Governance Plan and Strategy. The candidate will also have responsibilities in the overall Office 365 administration by supporting and configuring Office 365 applications to integrate current systems with SharePoint.
+
+Primary Responsibilities
+
+Conduct meetings outlining status, milestones, and requirements for deploying the SharePoint Online Document Management System (DMS).
+Create new company wide SharePoint site, Teams sites, lists, document libraries, and content including pages, workflows, etc.
+Lead the planning, coordinating, and delivery of relevant training and support for SharePoint end-users and administrators.
+Create Governance Policy and comprehensive permissions list for users for the purpose of managing, auditing, and reporting.
+Ensure the operational health of the Office 365 and SharePoint Online environment including security users’ access, availability, performance, interoperability, and reliability.
+Design, configure, manage, and maintain comprehensive site collection, site and list level usage reports, and usability analysis.
+Ensure employees have sufficient training and understanding of Office 365 applications and SharePoint Online by conducting orientations for new employees, organizing one-on-one training sessions for employees to address specific problems, updating employees on new features, and creating organization-specific training documentation.
+Provide weekly status reports on Office 365 and SharePoint tasks and activities.
+Other duties as required.
+Qualifications
+
+A Bachelor’s degree in Information Technology or related field required.
+5+ years System Administration, IT, or related experience preferred but not required.
+3+ years of experience administering SharePoint Online features and solutions.
+Possessing one of the following would be an asset: Office 365 Administrator Certification, SharePoint Configuration, Deploying Microsoft 365 Teamwork, Planning and Administering SharePoint 2016 (MCSE), or Advanced Technologies of SharePoint 2016 (MCSE).
+MCSA, MCSE or equivalent certifications is an asset.
+Experience supporting Microsoft Office 365 compliance controls such as DLP and RMS.
+Possess practical Office 365 and SharePoint Online product experience – configuring, administrating, monitoring, maintaining, developing, and deploying solutions.
+Proven experience developing SharePoint sites, site templates, pages, document libraries, and content types.
+Ability to integrate SharePoint online with third party applications - using CSOM, JSOM, API, etc.
+Strong practical knowledge of SharePoint Search Service, User Profile Service, and other Service Applications.
+Ability to maintain confidentiality.
+Strong communication skills, both verbal and written.
+Self-motivated with the desire to continuously learn and expand knowledge.
+Team player with a positive attitude; capable of working independently in a fast-paced environment.
+Ability to establish and maintain effective working relationships with individuals at all levels of the organization and external contacts.
+Schedule:
+
+8 hour shift
+Education:
+
+Bachelor's Degree (preferred)
+Job Types: Full-time, Fixed term contract
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+Experience:
+
+system administration: 3 years (preferred)
+Work Location: One location
+KEYPHRASES: automotive, customer service, respect, integrity, SharePoint Administrator, I.T, Process Manager, IT, Document Management Systems, SharePoint, Office 365site collection, availability, performance, training, Create Governance Policy Information Technology, 5+ years System Administration, 3+ years of experience administering SharePoint Online features and solutions, Office 365 Administrator Certification, SharePoint Configuration, MCSE, Microsoft 365 Teamwork, DLP, RMS, monteotirng, maintaining, developing, deploying solutions, MCSA document libraries, CSOM, JSOM< API, communication skills, verbal, written, Self-motivated, Team player, working independently, face-paced enviroment, effective working relationships
+----------------------------------------
+POSTING: CULTIVATING A BETTER WORLD
+
+Food served fast doesn't have to be a typical fast food experience. Chipotle has always done things differently, both in and out of our restaurants. We're changing the face of fast food, starting conversations, and directly supporting efforts to shift the future of farming and food. We hope you'll join us as we continue to learn, evolve, and shape what comes next on our mission to make better food accessible to everyone.
+
+THE OPPORTUNITY
+
+As Service Manager, you'll be responsible for maintaining a positive customer experience by ensuring that safe, quality food is prepared and served; and that the restaurant crew is well trained and provides excellent service. You'll maintain a clean, organized line with properly functioning line equipment. You'll be on your feet working while clocked in, unless on break. If you're not busy, you'll evaluate what other tasks need to be completed, and assist others with those tasks. At Chipotle, you'll join a team that's committed to Cultivating A Better World. If this sounds like something you'd like to be a part of, we'd love to meet you! See more details below and apply today.
+
+WHAT YOU'LL DO
+
+In addition to following Chipotle's policies and procedures, principal responsibilities include, but are not limited to, the following:
+
+Food Quality
+
+Making sure great tasting, high quality food is served
+Resolving food quality issues
+Managing food safety which includes: Ensuring hand washing and glove changes, monitoring time and temperature on the line, monitoring secondary shelf lives, and enforcing the Daily Food Safety Checklist and food safety policies and procedures
+Customer Interaction
+
+Resolving customer incidents and working to ensure positive customer experiences
+Team Management
+
+Managing crew breaks, shift changes, shift meetings, and line schedules
+Developing and cross-training all front of house Crew.
+Assisting with Crew performance reviews and the resolution of performance issues
+Training and developing future Service Managers
+Office Administration
+
+Assisting with miscellaneous office administration duties such as banking, cash handling policies and responsibilities, and office paperwork
+Overseeing office equipment and making sure office supplies are ordered as necessary
+Ensuring the proper quantity of supplies are available as needed
+Troubleshooting back of house computers and POS system
+Miscellaneous
+
+Ensuring the line and reach-in cooler are organized and clean
+Managing daily and weekly cleaning of the line, dining room, restrooms, and patio
+Assisting with the execution of marketing promotions
+WHAT YOU'LL BRING TO THE TABLE
+
+Restaurant/Kitchen management Experience preferably at Quick Service or Fast Casual Restaurant
+Ability to understand and articulate Chipotle's Food With Integrity philosophy
+Knowledge and experience of cash handling policies and procedures
+Knowledge of Food Safety and health department matters
+Prior office paperwork management experience
+Ability to speak, write, read, and understand the primary language(s) of the work location
+A high school diploma
+ABOUT CHIPOTLE
+
+Chipotle Mexican Grill, Inc. (NYSE: CMG) is cultivating a better world by serving responsibly sourced, classically-cooked, real food with wholesome ingredients without artificial colors, flavors or preservatives. Chipotle had over 3,000 restaurants as of July 2022in the United States, Canada, the United Kingdom, France and Germany and is the only restaurant company of its size that owns and operates all its restaurants. With over 100,000 employees passionate about providing a great guest experience, Chipotle is a longtime leader and innovator in the food industry. Chipotle is committed to making its food more accessible to everyone while continuing to be a brand with a demonstrated purpose as it leads the way in digital, technology and sustainable business practices. Steve Ells, founder, first opened Chipotle with a single restaurant in Denver, Colorado in 1993. For more information or to place an order online, visit WWW.CHIPOTLE.COM.
+
+Primary Location: Ontario - Toronto - 4129 - University Dundas-(04129)
+
+Work Location:
+4129 - University Dundas-(04129)
+525 University Ave R1
+Toronto M5G 2L3
+KEYPHRASES: fast food, restaurant, customer experience, quality food, organized, service, food quality issues, food safety, hand washing, glove changes, monitoring, secondary shelf lives, Daily Food Safety, food satefy policies, Customer Interaction, Managing crew breaks, shift changes, shift meetings, line schedules, cros-training, crew performance reviews, performance issues, training, office administration, banking, cash handling policies, office paperwork, office equipment, office supplies, POS system
+----------------------------------------
+POSTING: Quantum is hiring proactive security professionals where the right candidate will play an integral role in enhancing our clients' services. We provide security for the hospitality industry, working in a restaurant environment, ensuring the security and safety of both staff and patrons.
+
+Who we are:
+
+Quantum Thinking - We think differently. Our capacity for non-linear, alternative thinking drives innovation.
+
+Strategy - We always have a plan. We think forward, ask good questions, and are deliberate in everything we do
+
+Purpose - We know our why. Our beliefs and intentions drive us forward and create passion
+
+Collaboration - We do it together. Our best work comes from an intimate understanding of each other
+
+Integrity - We do the right thing. Our words and actions line up, and we never waver from our ethics
+
+On top of our international operations, we have operations in British Columbia, Alberta and Ontario. Successful candidates will possess the drive to pursue a career in security and/or law enforcement by building their resume along the way.
+
+We currently have part-time positions available for locations in Toronto and Etobicoke; there may be close to full-time hours available for candidates who are free in the evenings to work.
+
+Candidates who have future aspirations of law enforcement will benefit from this strategic security position where they can develop and demonstrate – communication skills, de-escalation techniques, tactical observations, risk assessments, public engagement, and proper note-taking and documentation.
+
+Requirements
+
+Attention to Detail
+Valid Security Workers License (BST)
+Previous Security Experience
+Previous Customer Service Background
+Driver's License with access to a vehicle
+Proficient in English (reading and writing)
+Attention to Deportment
+Advantageous Skill Sets
+
+Advanced Security Training (AST)
+First Aid (Standard First Aid, OFA Level 1 & 2)
+Smart Serve is an asset
+Job Functions
+
+Ability to assess risks and make appropriate decisions
+Effective communication skills and the ability to adjust your communication style to suit the needs of the audience
+Ability to follow instructions as well as use common sense and sound judgment
+Provide both a security presence and a customer service based skillset
+Ability to liaise and communicate effectively with local law enforcement
+Submit detailed daily shift reports in a timely manner
+Shift Hours
+
+Available shifts are Monday to Sunday starting between 1600-1900 – and ending between 2300-0200
+Must be flexible and able to provide availability 2 weeks in advance and work a minimum of 2 shifts every week.
+*Competitive compensation based on experience.
+
+Thank you for your interest in Quantum Risk Control. Due to the high volume of applicants, only those selected for interviews will be contacted.
+
+Job Types: Full-time, Part-time, Permanent
+
+Salary: $20.00-$24.00 per hour
+
+Benefits:
+
+Discounted or free food
+Schedule:
+
+Every Weekend
+Monday to Friday
+Weekend availability
+Experience:
+
+security: 1 year (preferred)
+customer service: 1 year (preferred)
+Licence/Certification:
+
+security worker licence (required)
+KEYPHRASES: Strategy, Collaboration, Integrity, Attention to Detail, law enforcement, communication skills, de-escelation techniques, tactical observations, risk assessments, public engagement, note-taking, documentation, Security Workers License, BST, Security Experience, Customer Service, Driver's License, English, Security Training, First Aid, Smart Serve, common sense, sound judgement
+----------------------------------------
+POSTINGS: This is about you. Your passion, purpose and potential. In you we see care, drive, confidence and curiosity. When you join our team, you can expect intensity, excitement and energy. Through our culture of people development, we are committed to the continuous learning and growth of our teams.
+
+As a server, you anticipate guest needs, exude genuine warmth and care, and seek opportunities to deliver the unexpected. Guests trust your expertise and recommendations as you are always building on your knowledge to deliver a world-class experience. You have a passion for hospitality and are a team player who thrives in a fast-paced, performance-driven environment.
+
+
+Core Values
+
+You value honesty and humility. You have integrity and do what you say.
+You approach life with fearless determination and a sense of fun.
+You are creative, risk-taking, visionary and cutting edge. You choose to lead.
+You contribute to a strong culture and are committed to the team.
+You are passionate about quality and professionalism.
+You believe in unleashing the potential in others.
+Requirements
+
+1-3+ years customer service experience (If you have the potential and less experience, we still want to meet you.)
+A passion for hospitality and creating world-class experiences
+A desire to learn and grow through personal and career development
+An entrepreneurial mindset. You see things from a new perspective
+Liquor Service certification
+
+Please note that given volume of candidates for this role, our hiring process may include a group interview to provide more candidates with the opportunity.
+
+
+Benefits
+
+Flexible scheduling to accommodate your personal and family needs
+Competitive compensation opportunity
+Ongoing mentorship to support personal and professional goals
+Fun, Team-driven and inclusive community
+Dynamic, fast-paced, and agile work environment
+World-class Culinary and Service training
+Compete through culinary and bar challenges
+Meal discounts
+Fitness membership discounts
+Recruiting & Referral bonus program incentives
+Your journey starts here.
+
+If you're looking for a place to meet your potential, we'd like to meet you. Roll up your sleeves. Your journey starts here.
+
+JOEY Restaurants is an Equal Employment Opportunity Employer. We thank all candidates for their time and interest in working at JOEY Restaurants, however, only candidates under consideration for opportunities with JOEY Restaurants will be contacted to participate further in this process.
+
+
+About JOEY Restaurants
+
+The JOEY Restaurant Group exists to deliver the ultimate dining experience. Our handcrafted, locally, and globally inspired menu offerings are created by award-winning Chefs, and presented by world-class hospitality leaders in modern, warm, and lively environments. JOEY Restaurants has been family-owned and operating since 1992 and has grown into an iconic multi-concept brand throughout North America, with continued growth and expansion planned into 2030.
+
+Our values shape every action we take and the decisions we make. JOEY Restaurants is all about opportunity and our ongoing success is attributable to our exceptional, team-oriented, performance-driven partners, who are constantly mastering their skill set. Our work environment is welcoming and inclusive, and our teams are passionate and creative. We embrace honesty and humility and are encouraged to fail forward and learn from our mistakes. Our industry-recognized performance-driven coaching culture paves the way for future leaders. Through ongoing coaching and mentorship, we directly impact the continuous learning, growth, and development of our partners across North America.
+
+JOEY Restaurants provides reasonable accommodations to qualified applicants and employees, including due to disabilities, medical conditions, and religious beliefs and practices.
+KEYPHRASES: care, drive, confidence, curiosity, 1-3+ years customer service experience, hospitality, entrepreneurial mindset, Liqour Serice certification, dining, restaurants, family-owned
+----------------------------------------
+POSTING: 1. Maintains an open, friendly, and cooperative relationship with each child and family.
+
+2. Ensure full knowledge of the CCEYA.
+
+3. Encourages each child's family to be actively involved in the CCEYA program
+
+4. Greets children and their parents warmly and with enthusiasm each morning.
+
+5. Develop Language Development through the introduction of Phonetic Sounds
+
+7. Develop a Mathematical Mind through the introduction of Mathematical Numeral System.
+
+8. Responds quickly in a soothing and tender manner to child's cries or calls of distress.
+
+9. Responds consistently to child’s needs for food and comfort.
+
+10. Tends to children's personal hygiene needs, remaining especially attentive to them during routines such as cleaning, feeding, and changing soiled or wet clothes.
+
+11. Organizes each day's activities to provide children with a variety of experiences and opportunities that allow them to develop curiosity, initiative, problem-solving skills, and creativity, as well as a sense of self and a feeling of belonging to the group.
+
+13. Conducts developmental screenings and ongoing assessments of to determine motor, language, social, cognitive perceptual and emotional skills.
+
+14. Complete Classroom Management Skills required - Completes timely, neat, accurate documentation of screenings, assessments, individualized plans, attendance, daily health checklist, daily activity logs for parents, inventories, and other documentation as may be deemed necessary for providing quality services. Sleep logs, Visitor logs included.
+
+15. Maintains a safe, clean, care-giving environment, practices good personal hygiene and hand washing, and assures the well being and safety of all of the children in that environment.
+
+16. Maintains a positive, calm attitude and a pleasant, soothing voice, and models this attitude and voice for parents and others working or volunteering in the program.
+
+17. Maintains a cooperative attitude of working together with other teachers, the center director, parents and volunteers in planning and implementing activities for the program/classroom.
+
+18. Protects all children from physical punishment or verbal abuse by anyone in any program activity, and immediately reports any such incident to the center director or person in charge.
+
+19. Provides for the physical safety of each child from arrival time until departure time.
+
+20. Observes children to detect signs of illness, injury, abuse, neglect, emotional disturbance, or other special needs, and reports these signs immediately to the center director or person in charge.
+
+21. Attends all training opportunities and staff meetings as provided and scheduled.
+
+22. Performs any other tasks deemed necessary by the center director.
+
+23. Lead and work collectively with co-workers.
+
+COVID-19 considerations:
+
+covid-19 Policy and Procedure in effect
+
+Job Types: Full-time, Fixed term contract
+Contract length: 12 months
+
+Salary: $20.00-$23.00 per hour
+
+Benefits:
+
+Extended health care
+Schedule:
+
+8 hour shift
+COVID-19 considerations:
+All teachers are still wearing mask. All children are strongly encouraged to wear the mask
+
+Education:
+
+AEC / DEP or Skilled Trade Certificate (required)
+Experience:
+
+Early Childhood General Education Teachers: 1 year (required)
+Licence/Certification:
+
+rece (required)
+Work Location: One location
+
+Application deadline: 2023-01-23
+Expected start date: 2023-01-31
+KEYPHRASES: CCEYA, children, family, Language Development, Phonetic Sounds, Mathematical Mind, Mathematical Numerical System, soothing, tender, child crying, personal hygiene, comfort, cleaning, food, curiosity, problem-solving, creativity, Classroom Management, calm, cooperative, teachers, protects, physical safety, training
+----------------------------------------
+POSTING: Join our award-winning academies where your efforts are appreciated and make a difference in the lives of others. We have won Toronto's best academy every year since 2014!
+
+With a full-service online academy, with physical locations in downtown and midtown Toronto. We are looking for passionate voice, piano, guitar and drum teachers with academic and/or professional performance experience to join the SingersEdge & TorontoArtsAcademy family!
+
+How To Apply: Reply with your resume to this post! You can also visit TorontoArtsAcademy.com/Hiring for more info.
+
+What Are We Looking For?
+
+Teachers with either academic or professional performing experience in guitar
+Passionate, fun personality!
+Enjoys working with kids and adults!
+
+What Can We Offer You?
+
+We offer a range of awesome benefits to our teachers including:
+
+We provide you with a schedule of your choice and fill it with students year-round even through the summer
+A beautiful studio environment with guitar amps, display screens and comfortable seating for teachers
+Covid safety procedures and features for the academy and lesson rooms
+Take pride in being part of an established, highly regarded network of teachers, coaches, prominent musicians, and industry professionals.
+Be a part of a team that values your work, expertise, and your individuality.
+We build your schedule quickly with students
+We manage all billing, collection of fees and payment plans for students.
+No headaches from student cancellations, complaints, makeup lessons, or dealing with other student headaches.
+We process all of our teachers' invoices and pay weekly for teacher convenience.
+Teach and enjoy the freedom of building your own career as a musician outside the academy free of operational burdens! We take care of everything for you!
+
+How To Apply: Reply with your resume to this post! You can also visit TorontoArtsAcademy.com/Hiring for more info.
+
+We look forward to welcoming you as a teacher at our school!
+
+Job Types: Contract, Permanent
+
+Salary: From $26.00 per hour
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+On call
+Weekends
+COVID-19 considerations:
+Learn more about what we're doing to keep our students and staff safe during the global pandemic by visiting TorontoArtsAcademy.com/COVID19
+
+Work remotely:
+
+No
+KEYPHRASES: guitar, drum, voice, piano, professional performance experience, Passionate, fun personality, kids and adults, studio enviroment
+----------------------------------------
+POSTING: Tutorax is the #1 tutoring company in Ontario. Established since 2016, we offer tutoring services to students from elementary school through university.
+
+We are currently looking for tutors located in North York or surrounding areas who are motivated to support students with in-home / online tutoring sessions. If you are looking for a flexible student job or simply looking to get involved in your community, we are the team for you! : )
+
+Why join our team?
+
+Flexible schedule: choose your own schedule!
+Possibility to work near your neighborhood or online
+Competitive salary of $18 to $22 per hour
+Access to exercices, training and daily support
+... And much more! : )
+The Role of a Tutor:
+
+Help students with their weekly homework assignments, review concepts in order to study for an exam, and complete various enrichment exercises to consolidate their learning.
+Required Qualifications:
+
+Be enrolled in/or graduated from post-secondary school
+Be available during the week at the end of the day (after 3pm) and/or on weekends.
+Ready to apply?
+
+We look forward to receiving your resume! : )
+
+We thank all candidates for their interest. However, only selected candidates will be contacted. The use of the masculine gender is non-discriminatory and is intended to lighten the text.
+
+#TutorsON
+
+Job Type: Part-time
+
+Salary: $18.00-$22.00 per hour
+
+Benefits:
+
+Casual dress
+Flexible schedule
+Flextime
+On-site parking
+Work from home
+Schedule:
+
+Monday to Friday
+Weekend availability
+Work Location: On the road
+KEYPHRASES: tutoring, students, elementary school, university, in-home, online, homework assignments, review concepts, study for an exam, enrichment exercises, graduated.
+----------------------------------------
+POSTING: Our client, a global leader in machining & tool business is experiencing a growth in many areas of its business, and is looking to hire a HR Manager to join their team in Mississauga, ON.
+
+The HR Manager must be a motivated, highly skilled individual who is looking to shine with his extraordinary creativity and skills.
+
+Timing: 8:00 am - 5:00 pm
+
+Pay: $75-100k
+
+Location: Mississauga, ON
+
+Job Duties & Responsibilities:
+
+Support Chief Operating Office, and managers on projects as required.
+Full-cycle recruiting for open positions in all departments, oversee employee life cycle of all workers (hiring, onboarding, career progression, terminations).
+Preparing of all the employee-related documents for all employees. Working with legal advisors as required to ensure documents are complete and compliant.
+Oversee the processing of bi-weekly payroll for all departments.
+Conduct internal reviews, investigations, and take disciplinary action as required.
+Absence Management including Worker’s Compensation claims, Return to Work programs, as well as STD and LTD case management;
+Compiling, reporting, and analysis of Human Resources information such as headcount, workplace accidents, turnover, etc. to both internal and external contacts;
+Travel to Quebec office when required; (Valid Canadian driver's license is mandatory for travel requirements)
+Oversee processing of full-cycle bi-weekly payroll for all departments
+Supervise maintenance of HRIS (Ceridian Dayforce), employee benefits enrolment (Canada Life), Absence Tracking System, and all Employee Records
+Support health and wellness of all staff.
+Participate actively in the Pension Committee.
+Perform other duties as required
+Qualifications:
+
+Must have at least 5 years experience in HR.
+Must be bilingual (French, & English).
+Strong interpersonal, and communication skills.
+Must be proficient in Microsoft Office Suite.
+Note: The ideal candidate must be located inside Canada, and have valid legal status in Canada.
+
+Job Types: Full-time, Fixed term contract
+
+Salary: $75,000.00-$100,000.00 per year
+
+Schedule:
+
+10 hour shift
+Day shift
+Morning shift
+Ability to commute/relocate:
+
+Mississauga, ON: reliably commute or plan to relocate before starting work (required)
+Language:
+
+French (required)
+Work Location: Hybrid remote in Mississauga, ON
+KEYPHRASES: HR Manager, creativity, Support, Full-cycle recruiting, employee life cycle, hiring, obnoarding, career progression, terminations, employee-related documents, legal advisors, oversee payroll, internal invervies, investigations, Absence Management, Worker's Compensation, HRIS, Ceridian Dayforce, Canada Life, employee benefits enrolmnent, Absence Tracking System, 5 years of experience in HR, bilingual, French, English, communication, Microsoft Office Suite
+----------------------------------------
+POSTING: Industrial Electrician - Fulltime Hourly Position
+
+Rate: $46.53 (Probation, Days), $49.50 (Days), $56.57 (Shift)
+
+Owens Corning, Toronto Plant
+
+Best known for its corporate symbol of the Pink Panther and a Fortune 500 company for more than 60 years, Owens Corning produces various building products for residential and commercial markets. Owens Corning has an opportunity for an Industrial Electrician, reporting to the Maintenance Supervisor at its manufacturing plant in Toronto, ON Canada.
+
+Safety is the number one priority and a condition of employment at Owens Corning.
+
+The Industrial Maintenance Electrician will report to a Maintenance Supervisor and will initially be a day shift position. Due to changing resources and business demands the position may require a transition to a continental shift work schedule which includes weekends.
+
+What we offer:
+
+Bonuses, Medical Benefits, Dental Benefits, Disability Benefits, Life Insurance Benefits, Pension Plan Benefits, and more...
+An opportunity to join an outstanding manufacturing organization
+Hourly Rate: $46.53 (Probation, Days), $49.50 (Days), $56.57 (Shift)
+
+Position Summary:
+
+Perform preventative maintenance on electrical and mechanical equipment.
+Inspect and test equipment in order to diagnose and remedy any electrical problems in the plant.
+Support our production processes in a flexible manufacturing team environment with rotating shifts.
+Design and test hydraulic, pneumatic, and electrical equipment and systems (involves circuits, relay logic, wiring, motors, servo drives, etc.)
+Experienced in the installation, maintenance and programming of PLC’s.
+Troubleshoot and repair hydraulic, pneumatic, and electrical equipment.
+Troubleshoot, replace/repair and assist with machine components including cylinders, pumps, motors, valves, gears.
+Operating utility equipment (e.g. air compressors, electrical distribution, etc.)
+Perform daily administrative skills using a computerized maintenance system. Update and log electrical changes.
+Participate in other duties as required.
+What you offer:
+
+Consideration will be given to candidates possessing either an Industrial Electrician Certificate of Qualification (442A) or Electrician - Construction & Maintenance Certificate of Qualification (309A)
+Certificate of Apprenticeship.
+Industrial experience is an asset.
+Ability to work independently as well as work in a team setting that includes other trades people and professionals to install, repair and maintain electrical systems and equipment.
+In-depth knowledge and experience with PLC’s (AB) and understanding of electrical and process instrumentation diagrams.
+Safety is our highest priority, and safety procedures and guidelines must be adhered to at all times. This includes wearing personal protective equipment, such as a hard hats, eye protection, hearing protection, respirators, and flame retardant clothing and safety shoes.
+Ability to work rotating shifts
+Passion for teamwork, ongoing learning, continuous improvement and maintaining a respectful environment
+Why Work Here
+
+At Owens Corning, we believe our competitive advantage lies in the strength and talents of our employees.
+
+Career advancement opportunities
+Competitive base salaries
+Performance based incentive bonus compensation
+Competitive Benefits
+An opportunity to join an outstanding manufacturing organization
+Owens Corning is committed to providing an inclusive and accessible candidate experience. Only those candidates selected for an interview will be contacted. If you require accommodation during the recruitment and selection process, please let us know. We will work with you to meet your needs.
+
+Required experience: 2 years relevant Industrial Electrician work experience is an asset.
+
+Required education: College or Equivalent
+
+By applying to this position, you are confirming you possess either a Canadian citizenship, permanent resident status or work permit.
+
+Job Types: Full-time, Permanent
+
+Salary: $46.53-$49.50 per hour
+
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Dental care
+Disability insurance
+Employee assistance program
+Extended health care
+Life insurance
+On-site parking
+Paid time off
+RRSP match
+Vision care
+Wellness program
+Schedule:
+
+8 hour shift
+Supplemental pay types:
+
+Bonus pay
+Overtime pay
+Application question(s):
+
+Are you currently legally entitled to work in Canada?
+Experience:
+
+Journeyman Electrician: 2 years (preferred)
+KEYPHRASES: preventative maintanence, Industrial Electrician, Maintenence Supervisor, mechanical equipment, inspect, diagnose, electrical equipment, circuits, relay, logic, wiring, motors, servo drives, replace, repair, hydraulic, pneumatic, Industrial Electrician Certificate of Qualification, Electrician - Construction & Maintenance Certificate of Qualification (309A)
+Certificate of Apprenticeship, Industrial Experience, install, safety, teamwork, ongoing learning
+----------------------------------------
+POSTING: Position: Mine Geologist (fly-in/fly-out)
+Salary Range: Hourly + premiums
+
+About the Client and Role
+
+We require an experienced Mine Geologist for our client, a mining firm with a growing operation located on Baffin Island in Nunavut. This is Contract to Permanent requirement, 3 weeks on, 3 weeks off.
+Reporting to the Technical Services Manager the Mine Geologist ensures all geological services are provided in a timely fashion within the open pit area. The purpose of the role is to gather and manage mine ore samples as the basis for the production grade calculations and reconciliation of grade estimates with grade of ore produced. The position is site based and will be on 3 weeks on / 3 weeks off rotation.
+
+MAIN ACCOUNTABILITIES:
+
+Ensuring work procedures are followed and safety standards are adhered to (risk assessment, incident reporting & investigating, policy & procedures review, MOC, etc.).
+Collect, document and assess geological data within the mine, ensuring that all geological features in the mine are observed and recorded.
+Ensure effective grade control in the mine; optimum ore recovery with minimal dilution by directing and monitoring of ore and rock according to the mining plan and cut-off grades.
+Provide geological information (ore blocks, lithological contacts, structural features, etc.) as required to the technical services team.
+Maintain samples & geological databases and conduct QAQC on all aspects of the Quality Management System
+Coach loading units operators on material identification, dilution and recovery.
+Conduct site tours to ensure the correct material is sent to the correct destination.
+Monitor and report on ore quality at the mine and the crusher.
+Map, log, integrate, and communicate geological data and structures within general mine area.
+Requires regular field visits and field ore control supervision.
+MAIN QUALIFICATIONS:
+
+Bachelor's degree in Geology or Geological Engineering
+Professional Geologist registered in Nunavut (or with the capability to register)
+4 years of geological experience with at least 2 years in a field role
+Arctic experience would be beneficial
+Experience working with aboriginal people and communities would be an asset.
+Experience working in remote mining camps.
+We encourage all interested candidates to please submit your application & resume directly through our website via the "Apply Now" button. Bullitt Staffing Inc. reviews and responds to every resume received if you apply via the "Apply Now" feature. We cannot guarantee a response if sent directly to the Recruiter via email. If you choose to contact the recruiter, please also apply online.
+
+About Bullitt Staffing Inc.
+Founded in 2006, Bullitt Staffing Inc. (formerly known as YORK Search Group), is a specialized full-cycle recruitment agency placing intermediate and executive level candidates in both permanent and contract positions across Canada within the Construction, Engineering, Mining, Oil & Gas, Consulting, Petrochemicals, Metals & Mining, Power/Energy, Civil Infrastructure, Environment Management and Property Development industries. We partner with a select group of top-tier corporations in these areas to keep them exposed to Canada's best talent. By focusing solely on these key markets, we're able to offer both our clients and our candidates with unparalleled expertise, as well as impressive success rates. Our consultants can help you find the right job at the right compensation. Whether you're a client or a candidate, with Bullitt Staffing Inc., you always get the benefit of all our expertise, along with the highest standard of service, integrity and trust.
+KEYPHRASES: Mine Geologist, mining firm, geological services, gather and manage, ore samples, grade estimates, safety standards, risk assessment, incident reporting, geological data, geological features, ore recovery, ore blocks, lithological contacts, strucutral features, QAQC, Geology, Geological Engineering, 4 years of geological experience, field or supervision, remote mining camps, arctic experience
+----------------------------------------
+POSTING: About TAC Sports:
+Toronto Athletic Camps (TAC Sports) is a leader in sport education, specializing in sport, confidence, and leadership development for students aged 3.5 to 16. TAC Sports offers a full range of sports, our unique 5-Star Development System, and a full developmental pathway from recreational to competitive levels.
+
+TAC Sports Mission:
+The mission of TAC Sports is to provide children with the most personable, growth-oriented recreational and academy sport development. We strive to build the life skills, sports skills, self-confidence, and self-image of our wonderful students. Toronto Athletic Camps provide children with the best coaching from certified instructors that serve as mentors and equals, as opposed to task-masters. Maintaining quality standards and safety is the foundation of TAC Sports.
+
+Working for TAC Sports:
+TAC Sports prides itself on hiring the best employees and volunteers to join our team; we are always looking for talented, enthusiastic and driven individuals to join our growing organization. TAC Sports values innovation, teamwork, sportsmanship, and excellence in its team. Working with TAC Sports means you will be working with a team that supports our clients in training and maintaining an active lifestyle. Working with TAC Sports means you will be working with a team that supports our clients in training and maintaining an active lifestyle.
+
+Summer Camp Details
+
+Our Summer Break Camps run weekly from June 26th to September 1st from 8:30 am-4:30 pm.
+
+General Responsibilities:
+Tennis Coaches will be responsible for leading a skill group, which includes providing outstanding instruction while fostering a fun and encouraging environment.
+
+Areas We Are Hiring For:
+
+Bayview & Steeles
+Avenue & Lawrence
+Dufferin & Lawrence
+Specific Responsibilities:
+
+Lead students through activities that will promote the growth of their physical, mental, and social development
+Plan, develop, and implement all lesson plans.
+Teaching students using a variety of different techniques including discussions, visual demonstrations, guided discovery, and where possible physical manipulation.
+Nurture and develop all athlete's potential skills and abilities
+Evaluate student's progress and discuss results with students, parents, and the onsite coordinator
+Analyze athlete performance and modify existing plans for maximum development
+Participate in staff meetings and required training
+Monitor the program, sports facility, and materials to ensure safety and provide first aid assistance when required.
+Additional duties as prescribed
+Qualifications:
+
+Experience working with children aged 6-12
+Ontario Tennis Association Coaching certification (or equivalent) preferred
+Background knowledge and experience in tennis or other sports
+Current Vulnerable Sector Check
+Standard First aid and CPR C
+Strong communication skills
+Bilingual - English/French is an asset
+Compensation:
+
+Compensation will be determined based on experience and qualifications.TAC Sports welcomes applications from people with disabilities and will provide accommodation as required by law upon request.
+Job Types: Part-time, Casual
+
+Salary: $400.00-$600.00 per week
+
+Schedule:
+
+Monday to Friday
+Work Location: One location
+KEYPHRASES: sport education, growth-oriented, tenis, leading, provide outstanding instruction, encouraging enviroment, training, innovation, teamwork, implement all lesson plans, Teaching, analyze athlete performance, evaluate student's progress, first aid., Ontario Tennis Association Coaching certification, CPR, Bilingual, English, French
+----------------------------------------
+POSTING: Looking for an experienced and personable tattoo artist with 4-5+ years of studio experience. Must have a portfolio to show - this is not an apprenticeship opportunity.
+
+Remuneration will be percentage based upon experience. Offering Competitive Industry Rates
+
+Please respond with portfolio and details about yourself
+
+Job details
+
+LocationToronto, ON
+Commission Based: Percentage per Piece
+Terms of employment Term or contract, Full time 30 to 60 hours / week
+Start date As soon as possible
+Employment conditions: On call, Morning, Day, Evening, Weekend, Night, Flexible hours, To be determinedWorking hours from 12:00 to 20:00
+Job requirements
+Languages:
+English
+
+Education
+Secondary (high) school graduation certificate
+Experience
+3 years to less than 5 years
+
+Security and Safety
+Criminal record check - expenses of the process will be borne by the employer and applicants will not be charged.
+
+Work Conditions and Physical Capabilities
+Repetitive tasks, Manual dexterity, Attention to detail, Combination of sitting, standing, walking, Hand-eye co-ordination
+Personal Suitability
+Judgement, Organized, Accurate, Excellent oral communication, Initiative, Team player, Reliability, Flexibility, Client focus, Dependability, Effective interpersonal skills
+
+Additional Skills
+Sell establishments products, Own clientele, Schedule and confirm appointments, Perform cashiering duties
+
+Area of Work Experience
+Tattoo artist
+Tattooing Skills
+Custom designs, Standard design styles, Repairs and cover-ups
+Work Setting
+Tattoo studio
+Credentials (certificates, licences, memberships, courses, etc.)
+Bloodborne pathogens training
+
+Please apply by email and respond with a link to your portfolio. All suitable candidates will be contacted for an interview.
+
+Job Types: Contract, Commission, Permanent
+
+Benefits:
+
+Casual dress
+Flexible schedule
+Schedule:
+
+Day shift
+Weekend availability
+Supplemental pay types:
+
+Commission pay
+Tips
+Work remotely:
+
+No
+KEYPHRASES: Tattoo artist, Tattooing Skills, Custom designs, Standard design styles, Repairs, cover-ups, Credentials, certificates, licences, Bloodborne pathogens training, Repetitive tasks, Manual dexterity, Attention to detail, Combination of sitting, standing, walking, Hand-eye co-ordination, Personal Suitability, Judgement, Organized, Accurate, Excellent oral communication, Initiative, Team player, Reliability, Flexibility, Client focus, Dependability, Effective interpersonal skills
+----------------------------------------
+POSTING: We are a busy Cardiology Clinic located in Whitby, just east of Toronto, looking to have an recent Doctor of Medicine Graduate join our team of professionals for 3 to 4 days per week.
+
+MEDICAL SCHOOL GRADUATION FROM 2020 TO PRESENT ONLY.
+
+MUST BE LIVING IN THE TORONTO GTA AREA AND MUST BE ELIGIBLE TO WORK IN CANADA.
+
+Duties to include Physician’s Assistant role, assist with interviewing patient for past medical history, prepare SOAP notes and enter into the EMR, present a provisional diagnosis to Supervising Physician. Duties to also included performing EKG and other cardiology diagnostic tests under the supervision of physician.
+
+Must be proficient in using EMR.
+
+3 to 4 days per week. 8 am to 4:30pm. No weekend.
+
+Work remotely
+
+No
+Job Types: Full-time, Permanent
+
+Schedule:
+
+8 hour shift
+No weekends
+Work Location: One location
+KEYPHRASES: MEDICAL SCHOOL GRADUATION, Cardiology Clinic, Doctor of Medicine, graduate, Physician's Assistant, interviewing patient, SOAP notes, EMR, provisional diagnosis, performing EKG, cardiology diagnostic tests
+----------------------------------------
+POSTING: Fantastic career opportunity. Don’t hope any longer.
+
+Growing mid Toronto practice is seeking an associate who loves dentistry is passionate about healthcare & enjoys people. If this is you; come interview us for an exciting opportunity to achieve your professional goals here. Must be confident with strong clinical skills and a broad clinical skill set to serve a wide variety of patient needs. We provide an environment for you to grow professionally & clinically with the support of a great hygiene team. Serious applicants only.
+
+No resumes yet. Please leave detailed voice message at 416-988-1929
+
+Job Types: Part-time, Permanent
+
+Salary: $108,793.00-$131,252.00 per year
+
+Flexible Language Requirement:
+
+French not required
+Schedule:
+
+Monday to Friday
+Weekend availability
+Work Location: One location
+
+Expected start date: 2023-02-01
+KEYPHRASES: dentistry, healthcare, strong clinical skills, clinical skills, hygiene
+----------------------------------------
+POSTING: Looking to start off your firefighting career? Want to build on your skills and join a great team of firefighters? Working for Unlimited Safety Services gives you the opportunity to work as an industrial and municipal firefighter!! Full-time employees work 2 weeks on and 2 weeks off, providing emergency services to the community in-between field jobs. Regular training sessions and accommodations are provided. Apply today and become a part of our growing team!!
+
+Roles and Responsibilities:
+
+Provide fire protection, firefighting and other emergency services
+Preform required duties at the station and on-site as per USS policies and procedures
+Operate company vehicles safely and conduct pre/post-trip inspections
+Set up and maintain fire / shower equipment as described in SOG's
+Complete and submit daily paperwork
+Participate in safety meetings with emphasis on hazards
+Conduct yourself in a professional manner
+Maintain required tickets
+Other duties as assigned
+Prerequisites:
+
+NFPA 1001 level 1 & 2
+NFPA 472 or 1072 Ops
+CPR/AED Level C
+H2S Alive
+Common Safety Orientation
+Emergency Medical Responder with ACP registration (required for full-time status)
+Class 3Q or provincial equivalent (required for full-time status)
+Clean criminal background history and vulnerable sector check
+Clean driver abstract
+Grade 12 or equivalent
+Preference for:
+
+Previous experience as a firefighter
+Previous experience in the oil & gas industry
+Previous experience in a trade
+Previous experience driving 18-speed trucks
+NFPA 1006
+NFPA 1002
+Unlimited Safety Services' goal is to provide excellent service to its clientele and community. We pride ourselves upon creating safe work environments for customers and our employees.
+
+Candidates must complete a pre-employment drug screening.
+
+Must speak fluent english and be entitled to work in Canada.
+
+A bi-weekly salary is provided to full-time employees. Day-rate bonuses are given to employees in the field.
+
+Job Type: Full-time
+
+Salary: From $900.00 per week
+
+Schedule:
+
+12 hour shift
+Day shift
+Night shift
+KEYPHRASES: firefighting, emergency services, fire protection, station, onsite, USS policies, maintain fire / shower equipment, safety meetings, NFPA 1001, NFPA 472, 1072 Ops, CPR/AED Level C, H2S Alive, Common Safety Orientation, Emergency Medical Responder, ACP registratoin, Class 3Q, driver abstract, oil & gas industry, trade, 18-speed trucks, NFPA 1006, NFPA 1002
+----------------------------------------
+POSTING: Paul Bannon Law is a general practice law firm in Mississauga, Ontario, looking to add a junior associate to its team, with a minimum of 2 to 3 years post-call legal experience.
+
+The ideal candidate must be licensed to practice law in Ontario and must have:
+
+Excellent written and oral communication skills;
+The ability to work independently;
+Strong analytical and drafting skills;
+Client management skills;
+A positive attitude and a good sense of humor;
+Strong IT skills and the ability to help keep the office running; and
+Access to a vehicle.
+Experience in corporate law, commercial law, real estate law, litigation and/or wills and estate will be considered an asset:
+
+Corporate: incorporations; organizing corporations; shareholder agreements; amalgamations; reorganizations; dissolutions; etc.
+Commercial: asset purchase agreements; share purchase agreements; commercial lending; due diligence; closings; etc.
+Real Estate: commercial real estate; full title searches / due diligence; mortgages; assignment of rents; commercial tenancies; etc.
+Litigation: civil litigation including real estate, employment, human rights, estates, insurance, breach of contract; etc.
+Estates: wills, power of attorney, family trusts, estate freezes, estate administration; etc.
+Thank you for your interest. Due to the volume of applications, only those considered for an interview will be contacted.
+
+Salary commensurate with experience.
+
+Job Type: Full-time - In Office
+
+Job Type: Full-time
+
+Work Location: One location
+KEYPHRASES: law, general practice law firm, legal experience, post-call, written, oral communication skills, work independently, analytical, drafting skills, Client management skills, positive attitude, good sense of humor, Strong IT skills, corporate law, commercial law, real estate law, litigation, wills, estate, incorporations, organizing corporations, shareholder agreements, amalgamations, reorganizations, dissolutions, asset purchase agreements, share purchase agreements, commercial lending, due diligence, closings, commercial real estate, full title searches, mortgages, assignment of rents, commerical tenacities, civil litigations, employment, human rights, insrance, breach of contract, power of attourney, family trusts, estate freezes, estate administration
+----------------------------------------
+POSTING: We are looking to hire Veterinary Assistant/Receptionist
+
+The preferred applicant will love all pets, have compassion, have previous Veterinary Assistant experience, and he/she will be skilled at multitasking, working quickly under pressure and be a great Team Player. They will liaise with the Veterinary team, in carrying out Receptionist Duties, Answering the telephone and booking Appointments, welcoming and receiving Clients and their Pets, invoicing and cashing out clients and maintaining medical records. Duties will also include assisting the Veterinarians and Technicians whilst treating or medicating pets, including safe pet restraint, walking in-patients, and providing empathetic care for all hospitalized patients. The successful applicant will collaborate with team members to create a positive and comfortable environment for the patients. A crucial part of the duties is ensuring the treatment and examination areas and cages are maintained at a high standard of cleanliness. Experience of working with Avimark Vet software would be desirable, but training can be given.
+
+Job Type: Full-time
+
+Salary: $16.00-$18.00 per hour
+
+Benefits:
+
+Dental care
+Discounted or free food
+Extended health care
+Life insurance
+On-site parking
+Store discount
+Vision care
+Flexible Language Requirement:
+
+French not required
+Schedule:
+
+Day shift
+Evening shift
+Experience:
+
+Veterinary Assistant: 3 years (required)
+KEYPHRASES: pets, compassion, Veterinary Assistant experience, multitasking, working quickly under pressure, Team Player, Receptionist Duties, Answering the telephone, booking Appointments, welcoming and recieving Clients, invoicing, cashing out clients, maintaining medical records, assisitng the Veterinarians, medicating pets, safe pet restrain, walking in-patients, providing empathic care
+----------------------------------------
+POSTING: Palgong Tea is a drink and dessert company specializing in bubble tea currently operating in the GTA and Montreal. We pride ourselves on offering the highest quality beverages and desserts without the high price points often associated with bubble tea in Canada.
+
+Starting in 2019 with 2 locations, we have since grown to 11 locations across Canada including 2 locations at the Toronto Zoo. Palgong Tea is now poised to penetrate other Canadian markets and is looking to expand our team to meet the demands of expansion.
+
+We are looking for Baristas to prepare and serve hot and cold beverages at our Distillery District location, including various types of coffee and bubble tea. Barista responsibilities include educating customers on our drinks menu, making recommendations based on their preferences, up-selling special items, taking orders and general shop maintenance duties. To be successful in this role, you should have some retail experience and great customer service skills. You should be able to work various shifts and should be available on weekends as well.
+
+Responsibilities
+
+Greet customers as they enter
+Give customers drink menus and answer their questions regarding ingredients
+Take orders while paying attention to details (e.g. preferences of coffee blend, dairy and sugar ratios)
+Prepare beverages following recipes
+Serve beverages and prepared food, like cookies, macarons, cakes
+Receive and process payments (cash and credit cards)
+Keep the bar area clean
+Check if brewing equipment operates properly and report any maintenance needs
+Comply with health and safety regulations
+Communicate customer feedback to managers and recommend new menu items
+Well-developed interpersonal skills; ability to work within a team environment
+A proactive approach and ability to build customer relations and with a passion to serve customers
+Open to learning ASL and/or greeting customers in ASL
+Provide exceptional customer service experience
+Able to multitask in a fast-paced environment
+Hands-on experience with brewing equipment
+Knowledge of sanitation regulations
+Able to learn quickly
+Job Types: Part-time, Permanent
+Part-time hours: 25-30 per week
+
+Salary: $15.50 per hour
+
+Benefits:
+
+Discounted or free food
+Schedule:
+
+8 hour shift
+Day shift
+Evening shift
+Supplemental pay types:
+
+Tips
+Work Location: One location
+KEYPHRASES: bubble tea, beverages, desserts, Greet customers, coffee, drinks menu, up-selling, taking orders, general shop maintenance, retail experience, customr service skills, Prepare beverages, Serve beverages, brewing equipment, ASL, interpersonal skills, team enviroment, sanitation regulations
+----------------------------------------
+POSTING: King's Crown is a luxury Barbershop located in North York and we are looking for a responsible and hard working Master Barber to join our team!
+
+Must be available to work on Sundays.
+
+Essential Duties and Responsibilities
+
+Customer Service- Provide professional and talented hair care service to our customers with an emphasis on customer service – welcoming each client and ensuring total client satisfaction by actively listening and communicating.
+Hair Cutting & Styling – Talented in long and short hair styles. Cutting with clippers and/or scissors, fading, blending, shampooing, styling hair and recommending products.
+Shaving & Beards– includes but not limited to straight razor shaving, beard trims, line ups, etc.
+Cleaning & Sanitation- Ensure a clean, safe and visibly appealing operation including but not limited to your direct station.
+Requirements
+
+Experienced barber – minimum of 5 years experience
+Be punctual, reliable, hardworking and proactive.
+Ability and willingness to learn.
+Passionate about customer service.
+Ability to listen to the clients and always try to deliver your best work.
+Ability to strive in a fast-paced environment that is customer service-driven.
+Excellent verbal communication and organization
+Ability to work well with others to accomplish team goals and pull together as a team.
+Able to develop strong customer relations.
+Able to work a flexible schedule to meet the needs of the business, including evening, weekends and holiday shifts.
+Must be well-groomed and professional
+Benefits
+
+Extremely competitive compensation plan with incentives
+Health and dental insurance for full time employees
+Merchandise discounts.
+Full Front-end support
+Job Types: Part-time, Permanent
+
+Salary: Starting at $20.00 per hour
+
+Job Types: Full-time, Part-time
+
+Salary: From $21.00 per hour
+
+Benefits:
+
+Extended health care
+Schedule:
+
+Every Weekend
+Night shift
+Weekend availability
+Supplemental pay types:
+
+Commission pay
+Tips
+Experience:
+
+Babering: 5 years (preferred)
+Shaving: 2 years (preferred)
+Work Location: One location
+KEYPHRASES: Babering 5 years, Shaving 2 years, Customer Service, hair care service, total client satisfaction, listening, communicating, Hair Cutting, Styling, clippers, scissors, fading, blending, shampooing, Beards, razor shaving, beard trims, line ups, punctual, reliable, hardworking, proactive, verbal communication, team goals, customer relations, well groomed
+----------------------------------------
+POSTING: Education: College/CEGEP
+Experience: 1 year to less than 2 years
+Tasks
+Painters create drawings, paintings and other artwork
+Manage business operations
+Type of painting and drawing medium
+Acrylics
+Oil colours
+Personal suitability
+Accurate
+Initiative
+Team player
+Long term benefits
+Other benefits
+Work Term: Permanent
+Work Language: English
+Hours: 40 hours per week
+KEYPHRASES: Painters, drawings, paintings, Acrylics, Oil colours, Accurate, Initiative, Team Player
+----------------------------------------
+POSTING: Looking for Dance teachers (Hip-hop Kpop Ballet Latin Chinese dance) to teach recreational dancers of all ages. Music/Vocal /keyboard teacher with experience with kids. Please submit with the following Resume with training background, performing and/or teaching experience- Dance videos- Availability (day, time).The Studio is in Markham, close to Hwy7/ Kennedy.
+
+Job Type: Part-time
+Part-time hours: 1 per week
+
+Salary: $25.00 per hour
+
+Schedule:
+
+Weekend availability
+Ability to commute/relocate:
+
+Markham, ON: reliably commute or plan to relocate before starting work (required)
+Experience:
+
+Teaching: 1 year (preferred)
+Work Location: One location
+KEYPHRASES: Dance teachers, Hip-hop, Kpop, Ballet, Latin, Chinese dance, recreational dancers, Music, Vocal, Keyboard, teacher, experience with kids
+----------------------------------------
+POSTING: Purpose:
+This position provides technical services in support of the academic mission of the School of Arts, Media, Performance & Design's Departments of Dance, Music, Theatre and occasionally the Departments of Design, Film and Visual Arts and Digital Media program. In addition, the position will provide technical services to internal (other University departments) and external clients. Technical services revolve around the performance facilities including five main venues and ancillary spaces.
+
+Education:
+Three years Post Secondary Education in Music, Dance, Theatre or Video production or equivalent experience. The equivalent experience is Grade 12 High School graduation plus three years of employment experience in music or stage production.
+
+Experience:
+Related Employment Experience: 6 months experience in music or stage production
+
+Skills:
+Committed to providing superior service to customers. respond effectively to customer concerns and service issues as they arise. possess excellent organizational and interpersonal skills. able to communicate clearly and concisely. work independently and as a part of a team. demonstrate good judgment and willingness to take initiative. sensitive to student needs and interests. familiar with Occupational Health and Safety policies and procedures. familiar with theatrical stage equipment and tools. ability to read stage and lighting diagrams and interpret them. ability to operate theatrical consoles including but not limited to sound, lighting and video.
+
+Additional Notes:
+The University welcomes applications from all qualified individuals, including, but not limited to women, persons with disabilities, visible minorities (racialized), Indigenous Peoples and persons of any gender identity and sexual orientation. York University is committed to a positive, supportive and inclusive environment.
+
+York University offers accommodation for applicants with disabilities in its recruitment processes. If you are contacted by York University regarding a job opportunity or testing, please advise if you require accommodation.
+
+We are committed to enhancing our environmentally and socially responsible practices for the benefit of all members of the York community. Our long term perspective recognizes our responsibility to be innovators and to continually work as a community to reduce our ecological impact.
+
+York University employees must apply to jobs through the Employee Career Portal - YU Hire. If you are a current York University employee and/or are using your rights under a collective agreement to view and/or apply to jobs, you MUST log into YU Hire to access the York University Employee Career Portal.
+
+PLEASE NOTE: Applications must be received by 11:55 pm EST on the posted deadline date, if applicable.
+KEYPHRASES: technical services, academic mission, Media, School of Arts, Performance & Design, Dance, Music, Theatre, Film, Visual Arts, Video production, service t ocustomers, organizational skills, interpersonal skills, communicate, work independently, theatrical state equipment, Occupational Health and Safety Policies, read stage, lighting diagrams, theatrical consoles, lighting
+----------------------------------------
+POSTING: Infosys is seeking a Product Owner. This position will interface with key stakeholders and apply technical proficiency across different stages of the Software Development Life Cycle including Requirements Elicitation, Application Architecture definition and Design; play an important role in creating the high level design artifacts; deliver high quality code deliverables for a module, lead validation for all types of testing and support activities related to implementation, transition and warranty. This is an opportunity to be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.
+
+Required Qualifications:
+Candidate must be located within commuting distance of Toronto, Ontario or be willing to relocate to the area. This position may require travel.
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+At least 11 years of Information Technology experience.
+Canadian citizens and those authorized to work in the Canada are encouraged to apply. We are unable to sponsor at this time.
+Preferred Qualification :
+10+ Experience working in Payer, Provider or PBM Organizations
+3+ years in a Product Management environment and working with multiple stakeholders (internal, customer organization, vendors)
+Experience developing and deploying software-as-a-service (SaaS) applications with popular public cloud platforms and Integrating SaaS Products with on-premise systems
+Communicating and facilitating architecture design discussions/decisions and impacts to key stakeholders
+Experience in legacy and web-based systems interfaces, Application Programmable Interfaces (APIs)
+Working knowledge of EPIC, FEATURE and User Story writing
+Sound knowledge and experience on Agile.
+Experience and desire to work in a Global delivery environment
+About Us
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+Visit www.infosys.com to see how Infosys (NYSE: INFY) can help your enterprise navigate your next.
+KEYPHRASES: key stakeholders, technical proficiency, Software DEvelopment Life Cycle, Requirements Elicitation, Application Architecture definition, design, design artifacts, code deliverables, validation, testing, support activites, implementation, transition, Bachelor's degree, 11 years of Information Technology experience, 10+ Experience working in Payer, Provider, PBM Organizations, 3+ years in Product Management, SaaS, public cloud platforms, SaaS PRoducts, legacy, web-based systems, Application Programmable Interfaces, APIs EPIC, FEATURE, User Story writing, Agile, Global delivery enviroment
+----------------------------------------
+POSTING: Title: Analytical Chemist
+
+Reports to: Manager – Research & Development
+
+Job Function:
+
+Review all GMP analytical data generated as a part of testing
+Prepare study protocols as per requirements
+Review of study reports as per requirements
+This role would be for an individual contributor & there are no direct reports to this position.
+The person is required to work hand in hand with the development & GMP teams of the organisation. The lab activities/ work allocation/ work priorities will be managed by managers & team leads
+Duties and Responsibilities:
+
+Audit laboratory documentation for compliance with quality & regulatory guidance's
+Conduct laboratory investigations and write deviations and LIRs
+Lead method development, method validation, method transfer, stability, characterization, and in-vitro bioequivalence activities for new pharmaceutical products
+Perform HPLC and GC testing (including troubleshooting and problem solving) and other required testing
+Evaluate all results generated for consistency and accuracy
+Develop specifications for finished product, bulk product, and raw materials
+Provide technical training to junior chemists to enable them to perform technical tasks
+Perform daily calibration of lab equipment such as balance, pH meter and Reverse Osmosis water unit as per SOPs
+Job Types: Full-time, Permanent
+
+Pay: $70,000.00-$80,000.00 per year
+
+Benefits:
+
+Dental care
+Life insurance
+Paid time off
+Schedule:
+
+Monday to Friday
+Ability to commute/relocate:
+
+Concord, ON: reliably commute or plan to relocate before starting work (required)
+KEYPHRASES: Analytical Chemist, GMP Analytical data, study protocols, study reports, individual contributor, development, GMP, lab activities, work alocation, work priorities, Audit laboratory investigations, write deviations, LIRs, Lead method development, method validation, method transfer, stability, characterization, in-vitro bioequivalence activities, HPLC, G testing, technical training, calibration of lab equipment, balance, pH meter, Reverse Osmosis water unit, SOPs
+----------------------------------------
+POSTING: Looking for an experienced and innovative Personal Chef. You must be highly motivated and have a passion for creating delicious meals from scratch, using whole foods only. Capable of developing high-brow and classic fare menu items daily, prepared according to employer’s preferences and dietary needs.
+
+To be successful in this position, candidate must be professional, detail-oriented, knowledgeable in various culinary techniques, with a deep understanding of clean eating.
+
+Should be able to take feedback, adapt to employer's needs, as well as demonstrate exceptional communication, time management and creativity.
+
+Competitive salary: $150,000 - $175,000
+
+Personal Chef Requirements and Qualifications
+
+· Food safety training or certification
+
+· Culinary diploma or degree in culinary arts is preferred
+
+· A strong understanding of nutrition
+
+· Valid driver's license and reliable transportation
+
+Job Type: Full-time
+
+Salary: $150,000.00-$175,000.00 per year
+
+Ability to commute/relocate:
+
+Greater Toronto Area, ON: reliably commute or plan to relocate before starting work (required)
+Experience:
+
+Private Chef: 3 years (required)
+Work Location: One location
+KEYPHRASES: Personal Chef, motivated, passion, delicious meals, whole foods, high-brow, classic, dietary needs, professional, detail-priented, culinary techniques, clean eating, communication, time management, creativity, Food safety training, Culinary diploma, nutrition, driver's license
+----------------------------------------
+POSTING: Job description
+
+Forest Ridge Landscaping Inc. is a family owned and operated landscape design, installation, and maintenance company. We work on a variety of contracts throughout GTA and surrounding areas. You will be working with a committed team providing exceptional service to a variety of municipal and commercial properties.
+
+The main duties for this upcoming season include snow removal and salting for the designated contract you will be working on.
+
+If you’re a hard-working, responsible, motivated individual interested in excellence, we have an exciting opportunity for you!
+
+Why work for us
+
+Secure, year-round contract opportunities with competitive wage
+Opportunity to develop, advance and refine your skills
+Supportive, team-based approach to reaching work goals
+Benefits plan for dedicated employees
+Vacation pay at every scheduled pay cycle (4%)
+We are hiring for: Tentative start date for this position will be ASAP.
+
+Heavy Equipment Operator Positions
+$28-32/ hr – depending upon position experience and reliability
+
+These positions are ideal for those who are not afraid of undesirable winter weather conditions, long hours, and a lot of hard work! Forest Ridge Landscaping offers employees a stand-by amount of $560.00 biweekly pay throughout the winter season. We also provide all equipment, tools, training, and detailed site maps as required.
+
+Applicant Requirements
+
+· Valid G driver’s license with a clean abstract, and reliable transportation to and from the contract site
+
+· Previous experience in winter works operations is considered an asset
+
+· Ability to communicate times effectively, and work independently
+
+· Available to be on call 24/7
+
+· Ability to remain flexible with shift schedules, extended hours (evenings, weekends, nights, and holidays)
+
+Job Type: Full-time
+
+Salary: $28.00-$32.00 per hour
+
+Schedule:
+
+On call
+Experience:
+
+Heavy Equipment Experience (1 Year Prefered)
+Licence/Certification:
+
+G Driver's License (Required)
+Job Type: Seasonal
+
+Salary: $28.00-$32.00 per hour
+
+Schedule:
+
+10 hour shift
+12 hour shift
+8 hour shift
+Day shift
+Night shift
+On call
+Weekend availability
+Work Location: One location
+KEYPHRASES: landscape design, installation, maintanence, snow removal, salting, hard-working, motivated, winter weather conditions, G driver's license, clean abstration, wingter works operation, work independently, communicate times, Heavy Equipment Experience (1 Year Prefered)
+----------------------------------------
+POSTING: About the Opportunity
+
+Our public sector client, located in North York, has a requirement for a Librarian to assist during a period of increased workload.
+
+Duties include but are not limited to:
+Create digital information products
+Check digitized pdf documents for problems with scanning, metadata, and accessibility, using Foxit, and correct errors as necessary
+Perform accessibility checks for e-resources, and assist with other e-resources projects as required
+Provide reference and research services
+About You
+
+The successful candidate will have the following:
+Strong communication skills in English and French
+Valid security clearance at a level of Enhanced Reliability
+Master of Library or Information Science from an American Library Association accredited program
+Twelve (12) months of experience in the previous twenty-four (24) months in one or more of the following:
+Assisting with digital asset management
+Assisting with online information product management in a college, university or special library
+Desirable experience using software/applications to create images and multimedia resources
+About the Job
+Contract length: February 6, 2023 to April 28, 2023
+Hours of work: 8am to 4pm (Monday - Friday)
+Location: North York, at client site (some remote work is a possibility)
+KEYPHRASES: librarian, digital information products, digitized pdf documents, scanning, metadata, accessibility, Foxit, correct errors, accessibility checks, e-resources, communication skills, English, French, Enhanced Reliability, Master of Library, Information Science, American Library Association accredited program, digital asset management, online information product management, software, applications, multimedia resources
+----------------------------------------
+POSTING: Overview:
+Inside Sales Representative - Digital Advertising
+
+About Us
+
+Teleperformance is a worldwide leader in customer experience management and contact center business process outsourcing. Our company employs around 300.000 people working in over 265 dialects and languages, in 80 countries, operating across all business sectors and all continents on behalf of major international companies. Teleperformance Canada, with more than 1200+ employees, part of the fortune 25 and certified with Great Place to Work, is looking for a group of highly-skilled professionals.
+
+Our Work Culture
+
+At Teleperformance, we remain true to our core values of integrity, respect, professionalism, innovation and commitment.
+Autonomous - We encourage and trust your decision making skills.
+Progressive work environment- If you have skills to prove we have all ladders for you to grow
+Innovative - All ideas matters
+Inclusive - Everyone is Included and everyone wins
+We work hard and party even harder.
+
+PURPOSE OF THE ROLE
+
+As a member of the Teleperformance team, you will be working on Inbound & outbound leads to acquire new advertisers for Google Ads. You will become a digital consultant, advising them on their digital advertising strategy, with the opportunity of having a significant impact on their business. It is a target driven environment, where you will work towards sales targets as well as being part of a larger sales team responsible for increasing the Client customer base across EMEA.
+
+Base Salary - $40,000 with possibility of additional Bonus earnings of OTE of $54,000 per year
+
+Skills
+
+Understanding of sales cycles including prospecting, communicating, negotiating and the ability to sell based on value, not price
+Excellent verbal and written communication skills within required language(s)
+Dependable, reliable with strong work ethic
+Analytical and creative mindset, ability to solve problems
+Proactive, organized, responsible, proven ability to work well with a team
+Eagerness to learn
+Benefits & Perks
+Established career path supported by self assessments, virtual training, guided curriculums that allow for vertical and horizontal growth through our multiple lines of business.
+Robust career path with a full development plan Opportunity to grow in organization
+Paid-3-4 weeks training , 2 weeks leave and medical benefits
+Continuous learning through progressive training that is specific to your tenure and skills.
+Competitive salary with incentive program
+Positive and supportive environment
+Weekly Friday Night Drinks / Social,Trivia Nights,Games evenings and Movie Outings.
+Medical and Dental benefits,Employee Family Assistance Programs, Rewards & Recognitions programs.
+
+#HF4
+Qualifications:
+BA/BS degree or equivalent Diploma
+Ability to speak and write English fluently
+At least 1 year of experience in a sales environment
+Computer savvy
+A team player with problem solving, analytical and communication skills
+Passionate about sales, technology and the internet, with a desire to learn and develop
+Experience using CRM software such as Salesforce is a plus
+Extremely high attention to detail and strong organizational skills
+Proficient in Google Docs and Sheets and/or Microsoft Word and Excel
+Ability to work independently and complete day-to-day tasks with minimal supervision
+Responsibilities:
+Achieve a minimum number of interactions (phone call and/or emails) per day
+Qualify and manage inbound and outbound leads and the overall sales pipeline
+Identify the needs of the business and personalize the product towards the related business
+Properly prepare and set expectations with businesses about the onboarding and go-live process
+Develop a deep understanding of the onboarding requirements/processes for our product across different regions
+Work closely with businesses to collect and submit information required to complete our onboarding process
+Accurately advise and support businesses on each verification requirement as they work to complete the onboarding process
+Successfully troubleshoot or escalate issues and feedback through the appropriate channels of support
+Work in a fast-changing, fast-paced workplace
+KEYPHRASES: Teleperformance, sales cycles, prospecting, communicating, negotiting, verbal, written, communication, strong work ethic, creative mindset, Proactive, organized, responsible, English, BA/BS degree, team player, problem solving, analytical, sales, technology, CRM software, Salesforce, organizational skills, Google Docs, Sheets, Microsoft Word, Excel, work independently, sales pipeline, manage leads
