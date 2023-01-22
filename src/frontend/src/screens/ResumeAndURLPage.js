@@ -32,9 +32,10 @@ const ResumeAndURLPage = () => {
     return (
         <Container>
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
-            <h2 className='title'>Congratulations on taking your first step to success!</h2>
-            <h3 className='subtitle'>Please upload the Job Posting URL you are looking at and your updated resume.</h3>
-            <Form className='form-body' onSubmit={onFormSubmit}>
+
+            <UnleashText>Congratulations on taking your first step to success! Please upload the Job Posting URL you are looking at and your updated resume.</UnleashText>
+            <Form onSubmit={onFormSubmit}>
+
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
@@ -89,6 +90,29 @@ const Button = styled.button`
     color: white;
     transition: 0.5s;
   }
+`;
+
+const UnleashText = styled.h3`
+/* Unleash your inner explorer and */
+
+    position: absolute;
+    width: 1714.65px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61.6043px;
+    line-height: 75px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #0080FF;
+
 `;
 
 export default ResumeAndURLPage;
