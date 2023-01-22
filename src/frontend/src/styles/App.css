@@ -1,7 +1,17 @@
 * {
     margin: 0;
     padding: 0;
-  }
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#root {
+    height: inherit;
+    width: inherit;
+}
 
 .title {
     color: rgb(108, 223, 185);
@@ -29,4 +39,6 @@
 .App {
     background: linear-gradient(180deg, #582680, #010c42, #0e8989);
     background-size: inherit;
+    height: inherit;
+    width: inherit;
 };

@@ -284,8 +284,8 @@ const LandingContainer = styled.div`
 
 
 position: relative;
-width: 1920px;
-height: 1080px;
+width: 100%; //1920px
+height: 100%; //1080px
 overflow: hidden;
 
 
