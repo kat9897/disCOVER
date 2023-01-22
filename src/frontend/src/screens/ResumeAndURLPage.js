@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
+import '../styles/App.css';
 
 const ResumeAndURLPage = () => {
     const [jobURL, setJobURL] = useState();
@@ -20,10 +21,11 @@ const ResumeAndURLPage = () => {
 
     return (
         <Container>
-
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
+
             <UnleashText>Congratulations on taking your first step to success! Please upload the Job Posting URL you are looking at and your updated resume.</UnleashText>
             <Form onSubmit={onFormSubmit}>
+
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
@@ -37,12 +39,12 @@ const ResumeAndURLPage = () => {
                 </Form.Group>
                 <Form.Group controlId="formFile" className="mb-3">
                     <Form.Label>Upload Resume</Form.Label>
-                    <Form.Control type="file" accept='.pdf/.doc/.docx'/>
+                    <Form.Control type="file" accept='.pdf, .doc, .docx'/>
                     <Form.Text className="text-muted">
                     Please only upload either .pdf or .doc files.
                     </Form.Text>
                 </Form.Group>
-                <Button variant="primary" type="submit">
+                <Button variant="primary" type="submit" onSubmit={afterSubmit}>
                     Submit
                 </Button>
             </Form>
@@ -50,11 +52,16 @@ const ResumeAndURLPage = () => {
     )
 }
 
+const afterSubmit = (e) => {
+    
+};
+
 const Container = styled.div`
     display: flex;
     align-text: center;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
     height: 100%;
     width: 100%;
 `;
