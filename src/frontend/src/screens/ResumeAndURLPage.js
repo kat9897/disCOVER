@@ -1,31 +1,113 @@
 import React, { useState } from 'react'
-import { useNavigate } from 'react-router';
+import { Navigate, useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 import '../styles/App.css';
+import axios from 'axios';
 
 const ResumeAndURLPage = () => {
     const [job, setJob] = useState();
     const [resume, setResume] = useState();
 
+    const navigate = useNavigate();
+
     const onInputJob = ({target:{value}}) => setJob(value);
     const onInputResume = ({target:{value}}) => setResume(value);
-    const onFormSubmit = e => {
+
+    const onFormSubmit = async (e) => {
         e.preventDefault()
-        if (!e.target.files[0]) {
-            return;
-        }
-        console.log(job)
-        console.log(resume);
+        setJob(e.target[0].value);
+        setResume(e.target[1].value);
+
+        //console.log("Job: ", job);
+        //console.log("Resume: ", resume);
+        let keywords = await generateKeyWords(job);
+
+        console.log("keywords: ", keywords);
+        const coverLetter = await generateCoverLetter(keywords, resume);
+
+        navigate("/result", {
+            state: {
+                keywords: keywords,
+                coverLetter: coverLetter,
+            }
+        });
     };
+
+    const cohere = require('cohere-ai');
+    cohere.init(process.env.COHERE_API_KEY);
+
+    async function generateCoverLetter(keywords, resume) {
+        const promptTmp = "Write a cover letter for applying to a job based on the following keywords and resume:\n\nKEYWORDS: {keyword}\nRESUME: {resume}\n--";
+        console.log("Keywords", keywords);
+        console.log("Resume", resume);
+        const options = await {
+            method: 'POST',
+            url: 'https://api.cohere.ai/generate',
+            headers: {
+              "accept": 'application/json',
+              'Cohere-Version': '2022-12-06',
+              'content-type': 'application/json',
+              "authorization": 'Bearer L0V2AxxD2airpTVmSpgaGpWVz82oHd62QiwyA5uD'
+            },
+            data: {
+              max_tokens: 500,
+              temperature: 0.9,
+              stop_sequences: ["--"],
+              model:"command-xlarge-nightly",
+              prompt: promptTmp,
+            }
+          };
+          
+          axios
+            .request(options)
+            .then(await function (response) {
+                console.log(response.data.generations[0].text);
+                return response.data.generations[0].text;
+            })
+            .catch(function (error) {
+              console.error(error);
+            });
+    }
+    
+    async function generateKeyWords(job) {
+        const promptTmp = "POSTING: "+ job + "\nKEYPHRASES:";
+        console.log("Prompt:",promptTmp);
+        const options = await {
+            method: 'POST',
+            url: 'https://api.cohere.ai/generate',
+            headers: {
+              "accept": 'application/json',
+              'Cohere-Version': '2022-12-06',
+              'content-type': 'application/json',
+              "authorization": 'Bearer L0V2AxxD2airpTVmSpgaGpWVz82oHd62QiwyA5uD '
+            },
+            data: {
+              max_tokens: 50,
+              temperature: 0.9,
+              model:"0ea2ca4f-725f-478a-b6e6-b7d46735d13e-ft",
+              prompt: promptTmp,
+            }
+          };
+          
+          axios
+            .request(options)
+            .then(await function (response) {
+              console.log(response.data.generations[0].text);
+              return response.data.generations[0].text;
+            })
+            .catch(function (error) {
+              console.error(error);
+            });
+    }
 
     return (
         <Container>
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
 
-            <UnleashText>Congratulations on taking your first step to success! 
+            {/* <UnleashText>Congratulations on taking your first step to success! 
             Please copy and paste your job description for the desired Job Posting 
-             and your latest resume.</UnleashText>
+             and your latest resume.</UnleashText> */}
             <Form onSubmit={onFormSubmit}>
 
                 <Form.Group className="mb-3" controlId="formJobURL">
@@ -79,7 +161,7 @@ const Button = styled.button`
   display: block;
   background-color: transparent;
   transition: 0.5s;
-  margin-bottom: 300px;
+  margin-top: 800px;
   &:hover {
     background-color: #003784;
     border-color: transparent;
