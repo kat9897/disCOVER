@@ -2,10 +2,10 @@ import React from 'react'
 
 import styled from "styled-components";
 import Button from 'react-bootstrap/Button';
-
 import Arrow from "../images/Arrow 1.png";
 //import Discover from "../images/only-words.png";
 import Discover from "../images/disCOVER.png";
+import logo from "../images/logo.png"
 import background from '../images/background2.gif';
 import { NavLink } from "react-router-dom"; 
 
@@ -14,13 +14,13 @@ const LandingPage = () => {
     return (
         <LandingContainer>
             <NavLink className="nav-link" to="/resume-and-url">
+                <img className="landing-logo" src={logo} alt="Logo"/>
                 <Words>
                     <UnleashText>We've got you covered.</UnleashText>
                     <DiscoverText>
                         <img src={Discover} alt="Discover" style={{height: "200px"}}/>
                     </DiscoverText>
                         <YourFutureText>Your Future</YourFutureText>
-                    <ArrowSymbol />
                 </Words>
                 <BackgroundCircles>
                     <RightContainer>
@@ -73,8 +73,8 @@ const YourFutureText = styled.h1`
 position: absolute;
 width: 975.4px;
 height: 205.35px;
-left: 487.7px;
-top: 261.82px;
+left: 740px;
+top: 280px;
 
 font-family: 'Arial';
 font-style: normal;
