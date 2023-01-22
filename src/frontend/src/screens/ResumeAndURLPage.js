@@ -110,9 +110,16 @@ const ResumeAndURLPage = () => {
             <Form className="form-wrapper" onSubmit={onFormSubmit}>
                 <Form.Group className="form-elem" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
-                    <Form.Control 
+                    {/* <Form.Control 
+                        className="text-input"
                         type="textarea" 
                         placeholder="Enter Job Posting Data"
+                        onChange={onInputJob}
+                    /> */}
+                    <textarea
+                        placeholder="Enter Job Posting Data"
+                        rows={10}
+                        cols={50}
                         onChange={onInputJob}
                     />
                     <Form.Text className="text-muted">
@@ -121,9 +128,16 @@ const ResumeAndURLPage = () => {
                 </Form.Group>
                 <Form.Group className="form-elem" controlId="formFile">
                     <Form.Label>Upload Resume</Form.Label>
-                    <Form.Control 
+                    {/* <Form.Control 
+                        className="text-input"
                         type="textarea" 
                         placeholder="Enter Resume Data"
+                        onChange={onInputResume}
+                    /> */}
+                    <textarea
+                        placeholder="Enter Resume Data"
+                        rows={10}
+                        cols={50}
                         onChange={onInputResume}
                     />
                     <Form.Text className="text-muted">
