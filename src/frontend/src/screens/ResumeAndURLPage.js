@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router';
 import styled from "styled-components";
 import Form from 'react-bootstrap/Form';
 import '../styles/App.css';
+import cohere from 'cohere-ai';
 
 const ResumeAndURLPage = () => {
     const [jobURL, setJobURL] = useState();
@@ -18,13 +19,23 @@ const ResumeAndURLPage = () => {
         setJobURL()
         setResume(e.target.files[0])
     };
+    cohere.init(process.env.COHERE_API_KEY);
+    (async () => {
+        const response = await cohere.generate({model: 'invalid-model'});
+      
+        if (response.statusCode !== 200) {
+            console.log(response.body.message);
+        }
+        console.log(response.body);
+      })();
 
     return (
         <Container>
             {/* <h1>You can't do anything until you take a step forward!</h1> */}
-            <h2 className='title'>Congratulations on taking your first step to success!</h2>
-            <h3 className='subtitle'>Please upload the Job Posting URL you are looking at and your updated resume.</h3>
-            <Form className='form-body' onSubmit={onFormSubmit}>
+
+            <UnleashText>Congratulations on taking your first step to success! Please upload the Job Posting URL you are looking at and your updated resume.</UnleashText>
+            <Form onSubmit={onFormSubmit}>
+
                 <Form.Group className="mb-3" controlId="formJobURL">
                     <Form.Label>Job URL</Form.Label>
                     <Form.Control 
@@ -43,17 +54,13 @@ const ResumeAndURLPage = () => {
                     Please only upload either .pdf or .doc files.
                     </Form.Text>
                 </Form.Group>
-                <Button variant="primary" type="submit" onSubmit={afterSubmit}>
+                <Button variant="primary" type="submit" onSubmit={onFormSubmit}>
                     Submit
                 </Button>
             </Form>
         </Container>
     )
 }
-
-const afterSubmit = (e) => {
-    
-};
 
 const Container = styled.div`
     display: flex;
@@ -83,6 +90,29 @@ const Button = styled.button`
     color: white;
     transition: 0.5s;
   }
+`;
+
+const UnleashText = styled.h3`
+/* Unleash your inner explorer and */
+
+    position: absolute;
+    width: 1714.65px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 61.6043px;
+    line-height: 75px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #0080FF;
+
 `;
 
 export default ResumeAndURLPage;
