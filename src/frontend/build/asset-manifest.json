@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19ce5099.css",
+    "main.js": "/static/js/main.19098427.js",
+    "static/media/logo.png": "/static/media/logo.194cc2192999c6018c86.png",
+    "static/media/disCOVER-colour.png": "/static/media/disCOVER-colour.0c279545901753e5a244.png",
+    "index.html": "/index.html",
+    "main.19ce5099.css.map": "/static/css/main.19ce5099.css.map",
+    "main.19098427.js.map": "/static/js/main.19098427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ce5099.css",
+    "static/js/main.19098427.js"
+  ]
+}
